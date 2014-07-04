@@ -1,0 +1,185 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: #000;
+	font-family: Verdana;
+}
+div {
+	display: block;
+}
+header {
+	display: block;
+}
+	header .h-top {
+		height: 8px;
+		background: #D3D3D3
+	}
+	header .h-main {
+		background: #EDEDED;
+		padding: 10px;
+		overflow: hidden;
+		border-bottom: 4px solid #0096A1;
+	}
+		.city-div {
+			float: right;
+		}
+		.city-div .display {
+			display: inline-block;
+		}
+		.city-div .filter {
+			display: inline-block;
+		}
+nav {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+	.category-div {
+		overflow: hidden;
+		padding: 20px;
+	}
+	.category-div li {
+		display: inline-block;
+		list-style: none;
+	}
+	.category-div li a {
+		font-size: 14px;
+		color: #FFF;
+		padding: 10px;
+		border: 1px solid #FFF;
+		text-decoration: none;
+		margin-right: 5px;
+	}
+	.category-div li a:hover,.category-div li a.active{
+		background: #ED1B24;
+		color: #FFF;
+		text-decoration: none;
+	}
+
+section {
+	display: block;
+	background:#0BA6B8;
+}
+	section .container {
+		padding: 40px;
+		min-height: 300px;
+		border-top: 5px solid #ED1B24;
+		background: #FFF;
+		margin: 0 auto;
+		width: 80%;
+	}
+	.container .filter{
+		border: 1px solid #DDD;
+		font-size: 12px;
+	}
+		.container .filter-label {
+			background: #FAFAFA;
+			padding: 5px;
+			display: inline-block;
+			border-right: 1px solid #DDD;
+		}
+		.filter-city, .filter-category, .filter-text, .filter-button {
+			display: inline-block;
+			border-right: 1px solid #DDD;
+		}
+		.filter-city {
+			display: none!important;
+		}
+		.a-filter {
+			background: #FFF;
+			border: 0 none;
+			padding: 0;
+			margin: 0;
+			height: 24px;
+		}
+		.input-filter {
+			border: 0 none;
+			height: 24px;
+			margin: 0;
+		}
+		.button-filter {
+			border: 0 none;
+			height: 26px;
+			margin: 0;
+			color: #FFF;
+			background: #ED1B24;
+		}
+		.header-filter {
+			color: #ED1B24;
+		}
+		.data-filter {
+
+		}
+		.data-filter img.loading{
+			margin: 0 auto;
+			display: block;
+		}
+	.container .data{
+
+	}
+	.dt {
+		padding: 10px 0;
+		border-bottom: 1px solid #CCC;
+	}
+	.btn {
+		padding: 10px 0;
+		border-bottom: 1px solid #DDD;
+		text-align: center;
+	}
+	.nm {
+		font-size: 12px;
+		color: #4A6DA4;
+		display: block;
+		font-weight: bold;
+	}
+	.ad {
+		font-size: 10px;
+		color: #777;
+		display: inline;
+		padding: 0 1px;
+	}
+	.e-m, .uk {
+		font-size: 10px;
+		color: #777;
+		display: block;
+	}
+	.ct, .dir, .pin{
+		font-size: 10px;
+		color: #333;
+		display: inline;
+		padding: 0 1px;
+	}
+	.cat {
+		display: block;
+		font-weight: normal;
+		font-size: 11px;
+	}
+	.cat-l {
+		color: #111;
+		display: inline;
+	}
+	.cat-n {
+		color: #30ACFF;
+		display: inline;
+	}
+	.error-msg {
+		color: #ED1B24;
+		font-size: 12px;
+		font-weight: bold;
+	}
+footer {
+	display: block;
+}
+	footer .f-top {
+		height: 10px;
+		background: #ED1B24;
+	}
+	footer .f-main {
+		padding: 10px 40px;
+		background: #EDEDED;
+		text-align: center;
+	}
+	footer .f-main p.copy{
+		color:#3F649D;
+		font-size: 12px;
+	}

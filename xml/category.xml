@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<categories>
+	<category name="Bangalore" file="xml/Bangalore.xml" icon="supermarket" citysearch="2">
+		
+	</category>
+	
+	<category name="Delhi" file="xml/Delhi.xml" icon="dining" citysearch="2">
+		
+	</category>
+	<category name="Mumbai" file="xml/Mumbai.xml" icon="fuel" citysearch="2">
+		
+	</category>
+	<category name="Other Cities" file="xml/OtherCities.xml" icon="entertainment" citysearch="2">
+		
+	</category>
+	
+	
+	<category name="Chennai" file="xml/Chennai.xml" icon="communication" citysearch="2">
+		
+	</category>
+	
+</categories>

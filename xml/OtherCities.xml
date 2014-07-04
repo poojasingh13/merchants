@@ -1,0 +1,3259 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2014-07-05T10:38:03Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>14805</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>105</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="801" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data>SHIROLE BROS-HPCL</Data></Cell>
+    <Cell><Data>NATIONAL HIGHWAY AT, POST THATWADE, 0, PUNE 411031</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001084</Data></Cell>
+    <Cell><Data>AMBHUJA UPOHAR-KOLKATA, 0, 0, KOLKATA 700084</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001082</Data></Cell>
+    <Cell><Data>AVANI RIVERSIDE-HOWRAH, AVANI RIVERSIDE MALL, 0, KOLKATA 711403</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001059</Data></Cell>
+    <Cell><Data>BARERAIPUR RD KOLKATA, 183D, BARERAIPUR RD, KOLKATA 700032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001034</Data></Cell>
+    <Cell><Data>BASANT BOSE RD-KOLKATA, # 17 BASANT BOSE RD, PS BHOWANIPOREWEST BENGAL, KOLKATA 700026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001069</Data></Cell>
+    <Cell><Data>BHUPEN BOSE RD KOLKATA, 68 A BHUPEN BOSE RDGR FL, NEAR JAMES LONG SCHOOL BEHALA, KOLKATA 700034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001037</Data></Cell>
+    <Cell><Data>BPCL RUBY HOSPITAL-KOLKATA 46 SHANTI, PALLI R B CONNECTOR FUEL POINT, BPCL PUMP NEAR RUBY H, KOLKATA 700107</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001057</Data></Cell>
+    <Cell><Data>CAMAC STREET 4/1 KOLKATA, GR FL OF THE BLDG, UILDING AT 4/1 CAMAC STREET, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001050</Data></Cell>
+    <Cell><Data>CHOWRINGEE MANSION NEHRU RD, GR FL PREMISES REMISES NO 30 H, S/P JAWAHARLAL NEHRU RD, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001042</Data></Cell>
+    <Cell><Data>CITY CENTRE 2 NEWTOWN PLOT, NO AA II DJ L NO 11 MOUJA NOAPARA, PO HATIARA RAJARHAT, KOLKATA 700059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001080</Data></Cell>
+    <Cell><Data>CITY HIGH, CITY HIGH KOLKATA CITY HIGH 85, CITY HIGH PRINCE ANWAR SHAH RD, KOLKATA 700071</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001058</Data></Cell>
+    <Cell><Data>CITY MALL BARASAT KOLKATA, 1/3 JESSORE RD, DABUNGLOW MORE CROSSING BARASAT, KOLKATA 700124</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001062</Data></Cell>
+    <Cell><Data>COGNIZANT KOLKATA BANATALA KOLKATA, IT PARK FEZ GANGA PUR PF KOLKATA, LEATHER COMPLEX 24 PARGANAS (SOUTH), KOLKATA 743502</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001053</Data></Cell>
+    <Cell><Data>CRYSTAL-1-KOLKATA, CRYSTAL MALL-I GLOBSYN CRYSTALS, SALT LAKE ELECTRONICSCOMPLEX, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001065</Data></Cell>
+    <Cell><Data>DC 23 SALT LAKE-KOLKATA, CAFE COFFEE DAY, PLOT NO 23 DC BLOCK SEC-I SALT LAKE, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001035</Data></Cell>
+    <Cell><Data>DLF IT PARK-KOLKATA, DLF IT PARK KOLKATA, GF NEW TOWN RAJAR HAAT, KOLKATA 700056</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001048</Data></Cell>
+    <Cell><Data>DOWN TOWN MALL-KOLKATA, DOWNTOWN MALL, SALTLAKE SEC3, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001073</Data></Cell>
+    <Cell><Data>E2-HB TOWN SODEPUR CALCUTTA, CAFE COFFEE DAY, SODPURE, KOLKATA 700110</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001079</Data></Cell>
+    <Cell><Data>FORT TERRAZZO-RAMANI, CHATTERJEE SRT-KLT FORT TERRAZZO, RAMANI CHATTERJEE STREET, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001039</Data></Cell>
+    <Cell><Data>18/2/48 UDAY SHANKAR SARANI, GOLF GREEN 234 BUS STAND AFTER, KOLKATTA DOORDARSHA GOLF GREEN, KOLKATA 700095</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001068</Data></Cell>
+    <Cell><Data>ICORE PLANET KOLKATA, GR FL ARCH GALAXY(ICORE PLANET), NO 45-B MUKHERJEE RD, KOLKATA 700025</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001049</Data></Cell>
+    <Cell><Data>INFOSPACE-KOLKATA UNITECH HITECH, STRUCTURES IT/ ITES SEZ ACTION AREA ID, RAJARHAT, KOLKATA 700156</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001027</Data></Cell>
+    <Cell><Data>INTL AIRPORT KOLKATA, ITB NETAJI SUBHASH CHANDRA, BOSE INTL AIRPORT, KOLKATA 700052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001060</Data></Cell>
+    <Cell><Data>JATINDRA MOHAN AVENUE KOLKATA, PS BURTALLA WARD NO 17, 10A JAITINDRA MOHAN AVENUE, KOLKATA 700006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001074</Data></Cell>
+    <Cell><Data>JESSORE RD-KOLKATA, PGE CENTER, JESSORE RD, KOLKATA 700055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001064</Data></Cell>
+    <Cell><Data>KARNANI MANSION KOLKATA, 25B, PARK STREET, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001056</Data></Cell>
+    <Cell><Data>LAKE GARDENS KOLKTA, 422 LAKE GARDENS, 0, KOLKATA 700045</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001031</Data></Cell>
+    <Cell><Data>MANI SQUARE PHOOLBAGAN MANI, SQUARE MALL 3RD FLR 164/1 MANIKTOLA RD, BESIDE APOLLO HOSPITAL E M BY PASS, KOLKATA 700054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001047</Data></Cell>
+    <Cell><Data>MANI SQUARE MALL 1ST FL 164/1, EM BYPASS POLICE STN PHOOLBAGAN W, BENGAL B/S APOLLO HOSPL, KOLKATA 700054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001044</Data></Cell>
+    <Cell><Data>MEDICA HOSPITAL-KOLKATA, 127 MUKUNDAPUR MEDICA HOSPITAL, CAFE 127 MUKUNDU PUR EM BY PASS, KOLKATA 700107</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001083</Data></Cell>
+    <Cell><Data>MIRA TOWERS-SALT LAKE-KOLKATA, MIRA TOWERS, SALT LAKE SEC-V, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001093</Data></Cell>
+    <Cell><Data>MODULE GOBINDRA NATH, 0, 0, KOLKATA 700033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001043</Data></Cell>
+    <Cell><Data>NAKTALA METRO-KOLKATA, PS JADAVPURANIL PLAZA, NSC BOSE RD, KOLKATA 700047</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001041</Data></Cell>
+    <Cell><Data>NOLA LAKE TOWN-KOLKATA, UNIT NO A, BLOCK B LAKE TOWN, KOLKATA 700089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001091</Data></Cell>
+    <Cell><Data>P-563-LAKE RD-KOLKATA, P563 LAKE RD, 0, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001061</Data></Cell>
+    <Cell><Data>PARK STREET 57-KOLKATA, PARK STREET 57 GRDFLR NO57, PARKSTRREET, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001046</Data></Cell>
+    <Cell><Data>PARKING LOT-AIRPORT NSCBI-KOLKATA, PARKING LOT, NSCBI AIRPORT, KOLKATA 700052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001067</Data></Cell>
+    <Cell><Data>PVR HOWRAH, PVR HOWRAH, AVANI RIVERSIDE MALL HOWRAH, KOLKATA 711102</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001024</Data></Cell>
+    <Cell><Data>RBD BOULEVERD, PLOT-K1, SEC-V SALT, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001052</Data></Cell>
+    <Cell><Data>RD MALL LILUAH HOWRAH-WEST BENGAL, RD MALL-BHAWANI CONSTRUCTION, LILUAH HOWRAH, KOLKATA 711204</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001066</Data></Cell>
+    <Cell><Data>SANTOSHPUR AVENUE KOLKATA, 226 SANTOSHPUR GR FL AVENUE, 0, KOLKATA 700075</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001013</Data></Cell>
+    <Cell><Data>SARAT BOSE HAZRA &amp; LANDSDOWN, CROSSING P-81 SARATH BOSE RD, OPP TO BHARAT PETROL PUMP, KOLKATA 700026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001054</Data></Cell>
+    <Cell><Data>SARKAR SARANI GARIAHAT-KOLKATA, DIHI PANCHANNAGRAM GF BEARING, NO PC 2 SITUATED AT SARKAR SARANI, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001038</Data></Cell>
+    <Cell><Data>SHOPPERS STOP-SOUTH CITY, BRIOS CAFE SHOPPER STOP 375, SOUTHCITY MALL BESIDE, KOLKATA 700068</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001078</Data></Cell>
+    <Cell><Data>SIDDHISWARI-DUM DUM RD-KOLKATA, SIDDHISWARI, DUM DUM RD, KOLKATA 700074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001029</Data></Cell>
+    <Cell><Data>SWEET HOME DALHOUSIE, SWEET HOME, DALHOUSIE ROOM NO, KOLKATA 700017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001030</Data></Cell>
+    <Cell><Data>SWIMMING POOL, SALT LAKE CITY, NEAR SWIMMING PO, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001086</Data></Cell>
+    <Cell><Data>UNITECH INFOSPACE-KOLKATA ACTION AREA, 1D NEWTOWN RAJARHAT UNITECH, HITECH STRUCTURES IT/ITES SEZ, KOLKATA 700156</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001040</Data></Cell>
+    <Cell><Data>VIP RD-KOLKATA, KOYLA VIHAR, VIP RD1/2 BLOCK 1 NEAR HALDIRAM, KOLKATA 700052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001075</Data></Cell>
+    <Cell><Data>WOODSQUARE MALL-KOLKATA, G-6 NEAR RAMKRISHNA, MISSION MARENDRAPUR, KOLKATA 700013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BEANSTALK</Data></Cell>
+    <Cell><Data>AMANORA PARK TOWNSHIP, HADAPSAR VILLAGE&#160; SADESATRANALI, (17-1/2&#160; NALI)TALUK HAVELI, PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BEANSTALK</Data></Cell>
+    <Cell><Data>UNIT SU 18 LEVEL F, DOMESTIC DEPARTURES RAJIV GANDHI, INTERNATL AIRPRT SHAMSHABAD, HYDERABAD 500409</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME</Data></Cell>
+    <Cell><Data>UNIT SU 18 LEVEL F, DOMESTIC DEPARTURES RAJIV GANDHI, INTERNATL AIRPRT SHAMSHABAD, HYDERABAD 500409</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002046</Data></Cell>
+    <Cell><Data>AKURDI-PUNE, STATION PRADHIKARAN, 8 &amp;9-LA REGALLIA OPP: AKURDI RAIL, PUNE 411044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002051</Data></Cell>
+    <Cell><Data>BIBEWADI-PUNE, SURYA PRABHA GARDEN, SHOP NO 3 4 5 BIBEWADI, PUNE 411037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002086</Data></Cell>
+    <Cell><Data>BLUE RIDGE SEZ HINJEWADI PUNE, GR FL BLDG IT2, BLUE RIDGE SEZ SNO154/6 HINJEWADI, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002060</Data></Cell>
+    <Cell><Data>CASTROL BIKE ZONE-PUNE, BHUSARI COLONY PAUD RD KOTHRUD, PLOT # 84 SURVEY # 98 CASTROL BIKE ZON, PUNE 411038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002084</Data></Cell>
+    <Cell><Data>CENTRAL MSM MALL PUNE, NEAR GARWARE COLLEGE, PUNE CENTRAL-4 SITUATED AT MSM MALL, PUNE 411004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002042</Data></Cell>
+    <Cell><Data>CITY PRIDE-PUNE, CITY PRIDE MULTIPLEX, SATARA RD, PUNE 415612</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002076</Data></Cell>
+    <Cell><Data>COGNIZANT PUNE, PLOT # 26, MIDC HINJEWADI, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002090</Data></Cell>
+    <Cell><Data>COMMERZONE PUNE, COMMERZONE BLDG NO 1, OFFAIRPORT RD YERWAD, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002075</Data></Cell>
+    <Cell><Data>SADESATRANALI (17-1/2 NALI) HADAPSAR, AMANORA TOWN CENTRE, AMANORA PARK TOWNSHIP VILL., PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002089</Data></Cell>
+    <Cell><Data>ICC TECH PARK SB RD, CAFE UNIT, SHIVAJI NGR SENAPATI BAPAT RD, PUNE 411016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002069</Data></Cell>
+    <Cell><Data>INFOSYS-PHASE 2-PUNE, FOOD COURT 1, HINJEWADIINFOSYS PHASE 2, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002068</Data></Cell>
+    <Cell><Data>INFOSYS PHASE-1-PUNE, INFOSYS, HINJEWADE, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002082</Data></Cell>
+    <Cell><Data>INFOSYS PUNE PHASE 2 SWIMMING POOL, INFOSYS TECH LTD PHASE II, RAHIJEWADI TALUKA-MULSHI, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002048</Data></Cell>
+    <Cell><Data>INFOSYS1 PUNE, PHASE-2, HINJEWADI, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002049</Data></Cell>
+    <Cell><Data>KOTHRUD-PUNE, DAHANUKAR COLONY, BLDG NO . 31/2 KOTHRUD, PUNE 411029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002081</Data></Cell>
+    <Cell><Data>LAKE VIEW PUNE, GR FL KADAM PLAZA AMBEGAON KHURD, SHOP NO 02 &amp; G-2, PUNE 411046</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002091</Data></Cell>
+    <Cell><Data>VADGAON SHERI OPPOSITE-NECO GARDEN, VIMAN NGR TALUKA HABLDG KNOWN AS, LALWANI REGENCY CHS AT VILL.-VAD, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002098</Data></Cell>
+    <Cell><Data>MATRIX KHARADI-PUNE, MATRIX, GF VILL. KHARADI, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002045</Data></Cell>
+    <Cell><Data>MEGAMART-PUNE, MEGAMART, CTS NO1537 ODAPODI, PUNE 411012</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002062</Data></Cell>
+    <Cell><Data>MILLENIUM PLAZA-PUNE, PLOT NO576/2/A+576/3/A, SHIVAJINGRMILLENNIUM PLAZA, PUNE 411005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002043</Data></Cell>
+    <Cell><Data>MIT RD-PUNE, SHOP 15 &amp; 16, VAN, PUNE 411004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002073</Data></Cell>
+    <Cell><Data>PANCHSHIL IT PARK PUNE, BLOCK B, YERAWADA UNIT B-GF 01 &amp; 02 GF, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002077</Data></Cell>
+    <Cell><Data>PMC PUNE-(LOUNGE) SURVEY NO 207, VIMAN NGR RDPUNE MARKET CITYUNIT, NO S-28 SECOND FLR OF THE BUILD, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002040</Data></Cell>
+    <Cell><Data>PRADHIKARAN-PUNE, AGARWAL BUSINESS CENTER, SEC-25, PUNE 302020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002072</Data></Cell>
+    <Cell><Data>PULSE MALL PUNE, 88/4 NEAR AGHA KHAN PALACE, PUNE-NGR RD SHOP NO 10 PULSE MALL, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002092</Data></Cell>
+    <Cell><Data>PVR MARKET CITY-PUNE, 3RD FLR, PHOENIX MARKET CITY MALL, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002061</Data></Cell>
+    <Cell><Data>MUMBAI-PUNE-BANGALORE HWY RAWATH, FURNITURES, KHED SHIVPURKHED SHIVPUR, PUNE 412206</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002047</Data></Cell>
+    <Cell><Data>SAMRUDHI APT-PUNE, SHOP NO 1, 1 SAMRUDHI APARTMENT, PUNE 411037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002052</Data></Cell>
+    <Cell><Data>SHARMA CHAMBERS-PUNE, PLOT NOS 884/7, IN SURVEY NOS 9, PUNE 411004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002097</Data></Cell>
+    <Cell><Data>SHINDE COMPLEX-BAVDHAN KHURD-PUNE, SHINDE COMPLEX VIKASNGR COLONY, BAVDHAN KHURD SHOP NO 13 BLDG 11 &amp; 12, PUNE 411021</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002071</Data></Cell>
+    <Cell><Data>SHOPPER STOP PACIFIC MALL-PUNE, 7 LOVES CHOWK NEAR GOLIBAR MAIDAN, PACIFIC MALL, PUNE 411042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002055</Data></Cell>
+    <Cell><Data>JUNCTION OF RBM CONNAUGHT RD, BRIO CAFE SOHRAB HALL 1ST, FLRBHPUNE RAILWAY STATION, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002054</Data></Cell>
+    <Cell><Data>GODREJ ETERNIA B-WING, BRIO CAFE SHOPPERS STOP, LTDWAKDE WADI SHIVAJI NGR, PUNE 411005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002065</Data></Cell>
+    <Cell><Data>SHOPPERS STOP INORBIT MALL-PUNE, INORBIT MALL NGR RD, 0, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002080</Data></Cell>
+    <Cell><Data>SHREE SIDHIVINAYAKA AANGAN PUNE, SHOP NO 01 PHASE-2 VADGAONF-WING, SHRI SIDHIVINAYAK AANGAN BLDG, PUNE 411041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002096</Data></Cell>
+    <Cell><Data>SINHGAD INSTITUTE-LONAVALA-PUNE, SINHGAD INSTITUTE OFF MUMBAI, PUNE EXPRESS WAY LONAVALA, PUNE 410401</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002094</Data></Cell>
+    <Cell><Data>SMILE STONE-PUNE, SMILE STONE MOTEL, VILL., PUNE 411048</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002087</Data></Cell>
+    <Cell><Data>STAR BAZAAR IDEAL CORPORATE, MUMBAI-PUNE RD, CHINCHAWADMID OPP GRAVES LTD, PUNE 411019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002079</Data></Cell>
+    <Cell><Data>STAR BAZAAR MARKET CITY PUNE, STAR BAZAAR, VIMAN NGRPUNE NGR HWY, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002093</Data></Cell>
+    <Cell><Data>SYMBIOSIS INSTITUTE-MULSHI-PUNE, CAMPUS VILL. NANDE, SYMBIOSIS INSTITUTE LAVLE HILL BASE, PUNE 411042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002088</Data></Cell>
+    <Cell><Data>VIJAY PETROLEUM SARADWADI PUNE, M\S VIJAY PETROLEUM GUTNO1547-1/2, POST SARADWADI SH-60 SHIRUR, PUNE 412208</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002050</Data></Cell>
+    <Cell><Data>WARJE-PUNE, VARAD LAXMI PLAZA, WARJE, PUNE 411058</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002067</Data></Cell>
+    <Cell><Data>WIPRO CAMPUS PHASE 1 HINJEWADI-PUNE, PHASE 1 WIPRO HINJEWADI, 0, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002063</Data></Cell>
+    <Cell><Data>NEXT TO MAGARPATTA CITY PUBLIC SCHOOL, MAGARPATTA YUMMY TUMMY PLOT, MPTCC-1 CYBER CITY, PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004017</Data></Cell>
+    <Cell><Data>AMRAPALI-AHMEDABAD, # 11&amp;12 AMRAPALI COMPLEX, 200 FT R, AHEMDABAD 390018</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004018</Data></Cell>
+    <Cell><Data>ANAND COMPLEX -AHMEDABAD, SHOP 5 &amp; 6, ANAND COMPLEX, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004001</Data></Cell>
+    <Cell><Data>ASHRAM RD, OPP NEHRU BRIDGE, ASHRAM RD, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004020</Data></Cell>
+    <Cell><Data>CENTRAL MALL AHMEDABAD, CENTRAL MALL, KOLONNADE CENTER CG RD, AHEMDABAD 380006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004010</Data></Cell>
+    <Cell><Data>DEV ARPAN PALDI, PALDI CROSS RD4 &amp; 5, DEV ARPANPALDI, AHEMDABAD 560038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004003</Data></Cell>
+    <Cell><Data>DHANANJAY, 100 FT RD, DHANANJAY TOWERS, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004028</Data></Cell>
+    <Cell><Data>GCP BUSINESS PARK, PARK OFF CG RD, OPP MEMNGR FIRE STATION GCP BUSINESS, AHEMDABAD 380052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004016</Data></Cell>
+    <Cell><Data>GUL MOHAR PARK-AHMEDABAD, SATELLITE RD, 2ND FLR KSHITEEJ MALL, AHEMDABAD 302021</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004004</Data></Cell>
+    <Cell><Data>HARI OM, NEAR LAW GARDEN, PANCHAVATI, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004015</Data></Cell>
+    <Cell><Data>HIMALAYA MALL, DRIVEIN RD, HIMALAYA MALL GRND FLR, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004014</Data></Cell>
+    <Cell><Data>HPCL VASTRAPUR, PREMCHANDNGR RD, VASTRAPURMANSI CROSS RD, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004025</Data></Cell>
+    <Cell><Data>HYPERCITY VASTRAPUR AHMEDABAD, ALPHA ONE MALL, TP SCHEME 1 VASTRAPUR, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004005</Data></Cell>
+    <Cell><Data>MANINGR, NEW COTTONN MILLS COMPOUND, CITY PULSE THEATRE RAIPUR, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004006</Data></Cell>
+    <Cell><Data>ORCHID PLAZA, OPP NRI TOWER, JUDGESBUNGALOW RD, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004021</Data></Cell>
+    <Cell><Data>PVR ACROPOLIS - AHMEDABAD, THALTEJ CROSS RD, S G HWYPVR CINEMA THE ACROPOLIS MALL, AHEMDABAD 380059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004027</Data></Cell>
+    <Cell><Data>RADHA KISHAN AVENUE TENNIS COURT, SHOP NO 8 &amp; 9 GRND FLR GOLDEN TRIANGLE, CORNER NAVRANGPURA OPP S P STADIUM, AHEMDABAD 380014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004019</Data></Cell>
+    <Cell><Data>SACHET -2-AHMEDABAD, NEAR RELIANCE HOUSE OFF - CG RDSHOP, # 2 &amp; 3 OPP LAW COLLEGE NAVARNGPUR, AHEMDABAD 492001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004029</Data></Cell>
+    <Cell><Data>SHIVALIK PLAZA ROA SHOPA-1 GR FLR, NEAR ATIRA POLYTECHNIC, OPP AMA PANJARA POLE IIM, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004030</Data></Cell>
+    <Cell><Data>SIGMA EXCELLENCE, SIGMA EXCELLENCE VASTRAPUR, 0, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004008</Data></Cell>
+    <Cell><Data>SWAD, NEAR L D ENGINEERING COLLEGE, OPP PASSPORT OFFICE UNIVERSITY RD, AHEMDABAD 380007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY149004024</Data></Cell>
+    <Cell><Data>WIDE ANGLE MULTIPLEX- AHMEDABAD, WIDE ANGEL MULTIPLEX, SATELLITE CROSSING S G HWY, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1547</Data></Cell>
+    <Cell><Data>CHOTA BAHERA NAITY RD, NABAGRAM, 0, KOLKATA 712246</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2004</Data></Cell>
+    <Cell><Data>55/E NETAJI SUBHASH AVENUE, SREERAMPORE, 0, KOLKATA 712201</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1477</Data></Cell>
+    <Cell><Data>RAJMAHAL TELECOM 50A, NS AVENUEOPP BANGLA SCHOOL, 0, KOLKATA 712201</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2096</Data></Cell>
+    <Cell><Data>HOLDING 947/B MOUZA ULUBERIA, ULUBERIA, 0, KOLKATA 711315</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1545</Data></Cell>
+    <Cell><Data>SATYANANRAYAN GRDN 273, GT RD OPPOSITE TO, LILUAH BARAGATE LILUAH, KOLKATA 711204</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2098</Data></Cell>
+    <Cell><Data>BIJOY ALAYA WARD 32, SHIBPUR, 0, KOLKATA 711102</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1921</Data></Cell>
+    <Cell><Data>WARD 22 SN BANERJEE RD, BARRACKPORE, 0, KOLKATA 700001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1279</Data></Cell>
+    <Cell><Data>70C BHUPEN BOSE AVENUENEAR, METRO STATION, 0, KOLKATA 700004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1899</Data></Cell>
+    <Cell><Data>CITY POINT HOLDING 154, WARD-23 NS DUTTA RD, 0, KOLKATA 711101</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2097</Data></Cell>
+    <Cell><Data>244 C R AVENUE, GIRISH PARK, 0, KOLKATA 700006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 18006</Data></Cell>
+    <Cell><Data>112P 126P 127P 162PPREMISES, NO- 322 MOUZA- BARAKHOLA, JL21ON E M BYPASSP O-EASTJADAVPU, KOLKATA 700099</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3203</Data></Cell>
+    <Cell><Data>SHOP 95 96 &amp; 97 AT 306, APC RD SEALDAH, 0, KOLKATA 700009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3103</Data></Cell>
+    <Cell><Data>PREMISES 129 AT C9/B, BAGHAJATIN BLOCK-C JADAVPUR, 0, KOLKATA 700092</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1619</Data></Cell>
+    <Cell><Data>26 SHAKESPEARE SARANI, SHOP G3B 222 AJC BOSE RD, 0, KOLKATA 700017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1300</Data></Cell>
+    <Cell><Data>CITY CENTER, AIRTEL RELATIONSHIP CENTRE, SALTLAKE, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1173</Data></Cell>
+    <Cell><Data>122A KARL MARX, SARANIKOLKATA, 0, KOLKATA 700024</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1957</Data></Cell>
+    <Cell><Data>H-1/16 SL SARANI, BAGUIATI JORAMANDIR, 0, KOLKATA 700059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2283</Data></Cell>
+    <Cell><Data>41B ASHUTOSH MUKHERJEE RD, NEAR JADUBABU BAZAAR, BHAWANIPORE, KOLKATA 700025</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3372</Data></Cell>
+    <Cell><Data>LANDMARK ISCON MALL, NEAR ISCON TEMPLE, SG HIGHWAY, AHEMDABAD 300052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3319</Data></Cell>
+    <Cell><Data>F3 1ST FLR RAJVI COMPLEX, MANINAGAR, 0, AHEMDABAD 380008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1565</Data></Cell>
+    <Cell><Data>SHOP NO . 99/3 AARANBH COMPLEX, OPP. HDFC BANK&#160; NR.ANKUR BUS STAND, ANKUR RD NARANPURA, AHEMDABAD 380013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1299</Data></Cell>
+    <Cell><Data>EETCO - PARK STREET, 0, 0, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3269</Data></Cell>
+    <Cell><Data>3269 586 M.B RD, COLLEGE MORE BIRATI, OPP BIG BAZAR, KOLKATA 700051</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3024</Data></Cell>
+    <Cell><Data>KESTOPUR VIP RD, MEENA SUPERMARKET COMPLEX, RABINDRA PALLY, KOLKATA 700059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2002</Data></Cell>
+    <Cell><Data>PREMISES 6, CHINTAMANI RD, HOWRAH, KOLKATA 711101</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1918</Data></Cell>
+    <Cell><Data>HOLDING 3 30/1, WARD9 GT RD, SHEORAPHULLY, KOLKATA 712103</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1544</Data></Cell>
+    <Cell><Data>D.L SHOPPING COMPLEX, TEMATHA GT RAOD, CHANDANANAGAR, KOLKATA 712136</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1627</Data></Cell>
+    <Cell><Data>26/6 DR PT LAHA STREET, RISHRA, 0, KOLKATA 712248</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1453</Data></Cell>
+    <Cell><Data>78 BUS STAND, JESSORE RDHABRA, 24 PARGANAS, KOLKATA 743263</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001092</Data></Cell>
+    <Cell><Data>AMEERPET- HYDERABAD, SRINIVASA COLONY W WARD NO.8, SYNO.68 SRINIVA, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001040</Data></Cell>
+    <Cell><Data>APOLLO 2, JUBILLEE HILLS APOLLO HOSPITAL, FILM NAGER, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001079</Data></Cell>
+    <Cell><Data>APOLLO 2 JUBILEE HILLS, APOLLO HOSPITAL, JUBILEE HILLS, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001031</Data></Cell>
+    <Cell><Data>APOLLO HOSPITAL-HYDERABAD, RD NO-35, JUBLEE HILLSGF APOLLO HOSPITAL MA, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001066</Data></Cell>
+    <Cell><Data>BESIDE RAINBOW HOSPITAL BANJARA HILLS, RD NO.10 GRND FLR OF THE BLDG PROPERTY, BEARING PLOT # 5 OLD PLOT # 1, HYDERABAD 500051</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001069</Data></Cell>
+    <Cell><Data>BANJARA HILLS RD NO 12 HYDERABAD, NO 8-2-681 BANJARAHILLS, RD NO. 12, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001088</Data></Cell>
+    <Cell><Data>BANJARAHILLS RD NO. 14-HYD, HNO. 8-2-638/4, SY NO. 129/56, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001064</Data></Cell>
+    <Cell><Data>BIG BAZAR TARNAKA- HYDERABAD, GR FLR BIG BAZAR, TARNAKA, HYDERABAD 500017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001057</Data></Cell>
+    <Cell><Data>CENTRAL-HYDERABAD, HYDERABAD CENTRAL MALL, #6-3-673/1-4 2ND FLR, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001080</Data></Cell>
+    <Cell><Data>FEMINA WOMENS HOSPITAL, RD # 12, BANJARA HILLS, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001043</Data></Cell>
+    <Cell><Data>G48 INORBIT-CYBERABAD-HYD, UNIT NO G48 B, INORBIT MALL CYBERABAD, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001093</Data></Cell>
+    <Cell><Data>GHIAL- BAGGAGE BELT AREA- HYD KIOSK, GMR HYDERABAD INTR'NL AIRPORT LTD, 0, HYDERABAD 500409</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001032</Data></Cell>
+    <Cell><Data>HILL COLONY-HYDERABAD, #17 PRASHANTH NGR HILL COLONY, VANASTHILI HILLS VANASTHALIPURAM, HYDERABAD 500070</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001063</Data></Cell>
+    <Cell><Data>HOME TOWN-HYDERABAD, PANJAGUTTA NEAR HYDERABAD CENTRAL, 0, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001044</Data></Cell>
+    <Cell><Data>HYDERGUDA-HYD, SRI SIVA RAMA TOWORS, GF, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001091</Data></Cell>
+    <Cell><Data>L B NGR-HYD KAMINENI HOSPITAL, SAROOR NGR MANDAL RANGA REDDYPART, BLOCKNO.8 LB NGR CIRCLE DIAGONAL, HYDERABAD 500074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001039</Data></Cell>
+    <Cell><Data>MADHAPUR-HYDERABAD, BESIDE AIRTEL SHOWROOM, HOUSE NO 1-68/9, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001058</Data></Cell>
+    <Cell><Data>APIIC SOFTWARE LAYOUT HI-TECH CITY, NEXT TO VSNL BLDGIN TIME PROPERTIES, PVT LTD MINDSPACE CYBERABAD MADHAPUR, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001052</Data></Cell>
+    <Cell><Data>MUSHEERABAD-HYD, OPP GANDHI HOSPTL VIJETHA SANJEEVANI, BHOLAKAPUR MUSHEERABA SUCUNDERABAD, HYDERABAD 500020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001089</Data></Cell>
+    <Cell><Data>SHOP NO. 3 BESIDE UNION BANK, OF INDIA HIMAYATHNGR, HOUSE NO.3-5-919 TO 925 BALAJI ARCADE, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001051</Data></Cell>
+    <Cell><Data>PBN CENTER RD NO. 45-HYD, JUBILEE HILLS RD NO 45 PBN CENTER, NO 1057-F, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001086</Data></Cell>
+    <Cell><Data>05TH FL PUNJAGUTTA CROSS RD, NEAR PUNJAGUTTA POLICEPVR LTD, HYDERABAD CENTRAL MALL 05TH, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001076</Data></Cell>
+    <Cell><Data>9-1-122 &amp; 123/2 (FIRST FL), SAROJINI DEVI RD GF LELA BHAVAN, MUNICIPAL NOS.9-1-122 &amp; 123/1 GF, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001067</Data></Cell>
+    <Cell><Data>SECUNDERABAD CLUB HYDERABAD, NO220, SECUNDERABAD CLUB, HYDERABAD 500026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001059</Data></Cell>
+    <Cell><Data>SHOPPER STOP BEGUMPET-HYDERABAD, STREET NO-3 ALLAUDDIN MANSION BEGUMPET, # 1-11-251/1 5TH FLR JAYA TWRS, HYDERABAD 500016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001034</Data></Cell>
+    <Cell><Data>SHOPPERS STOP-CITY CENTER-HYD, SHOP NO.101-108 BRIO CAFE CITY CENTRE, 1ST FLR JUNCTION OF RD NO.1 &amp; 10, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001053</Data></Cell>
+    <Cell><Data>NEAR DELHI PUBLIC SCHOOL, DIAMOND POINT SIKH VILL. PLOT NO 5, K1 SQUARE THOKATTA VILL., HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001037</Data></Cell>
+    <Cell><Data>SINDHI COLONY-HYD, PLOT NO6, SECUNDERABAD, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001077</Data></Cell>
+    <Cell><Data>RASOOLPURA VILL. HYDERABAD URBAN, TALUK MAYFAIR COMPLEX SITUATED, AT PLOT NO. 1SECUNDERABAD, HYDERABAD 500016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001041</Data></Cell>
+    <Cell><Data>SR NGR -HYDERABAD, SANJEEVAREDDY NGR, MIG 22/A, HYDERABAD 500038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001074</Data></Cell>
+    <Cell><Data>SRINGR COLONY-HYDERABAD, SUNIL PRIDE, SRINGR COLONY MAIN RD, HYDERABAD 500073</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001061</Data></Cell>
+    <Cell><Data>TIVOLI TALKIES SECUNDERABAD, BOLARAM RD TIVOLI TALKIESCINEMA BLDG, BEARING NOS 221 AND 22 SECUNDERABAD, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001070</Data></Cell>
+    <Cell><Data>VIKRAMPURI THOKATTA-SECUNDERABAD, VILL. SURVEY NUMBER 160, THOKATTA SECUNDERABAD, HYDERABAD 500026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001062</Data></Cell>
+    <Cell><Data>VINAYAK NGR GACHIBOWLI IN SURVEY, NOS. 92/1 92/3 TO 92/18 BUILT ON PLOT, NO. 141 RR DIST VINAYAK NGR GACHIBOWLI, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001056</Data></Cell>
+    <Cell><Data>WAVE ROCK -HYD, TS-2, NANAKRAMGUDA GACHIBOWLI, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>US POLO KIDS - MARKET CITY PUNE</Data></Cell>
+    <Cell><Data>SHOP NO.S-26A, SECOND FLOOR,, PHOENIX MARKET CITY MALL, SURVEY NO.20, 7 BEHIND BAKER GAUGE, VIMAN NAGAR ROAD, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ARROW - HG AMANORA</Data></Cell>
+    <Cell><Data>SHOP NO-WB4, GR FLOOR, AMANORA MALL, HADAPSAR, PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAUTICA -ASIAN CONSULTANCY</Data></Cell>
+    <Cell><Data>M/S. ASIAN CONSULTANCY&#160; CO SHOP NO -2, LWR GROUND FLOOR GVK ONE, NO 6-3-251 ROAD NO -1BANJARA HILLS, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAHAKALI SERVICE STATION</Data></Cell>
+    <Cell><Data>77 S P MUKHERJEE ROAD, 0, 0, KOLKATA 700026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHROFF BROTHERS (MOHARI NH6)</Data></Cell>
+    <Cell><Data>1 ABDUL HAMID STREET, OLD BLOCK ROOM 8, ESPLANADE, KOLKATA 700069</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SAHA BROTHERS</Data></Cell>
+    <Cell><Data>63 JESSORE ROAD, HABRA WARD NO-5, NEAR STAFF QUARTER MORE, KOLKATA 743263</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SODEPUR FILLING STATION</Data></Cell>
+    <Cell><Data>188F,B.T ROAD, P.O-PANIHATI, 0, 0, KOLKATA 700118</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LUCKY FILLING STATION</Data></Cell>
+    <Cell><Data>18-1-350/A/6,7,8 FATHIMA OWAISI NAGAR, PHOOL BAGH, 0, HYDERABAD 500059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHRI SAI SERVICE STATION- HPCL</Data></Cell>
+    <Cell><Data>889/90 JANGLI MAHARAJ ROAD, DECCAN GYMKHANA, 0, PUNE 411052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3503</Data></Cell>
+    <Cell><Data>SURVEY NO 212/1 PLOT NO: 59, HERMES WAVES OPP BABA KALYANIS, BUNGALOWYERWADA KALYANINGR, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3389</Data></Cell>
+    <Cell><Data>INORBIT MALL, LOWER GROUND FLR- D2630, E2630, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3309</Data></Cell>
+    <Cell><Data>UNIT NO S211 2ND FLR, INORBIT MALL SURVEY, NO 357 AHMEDNGR RD, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3447</Data></Cell>
+    <Cell><Data>H NO 5-7-71/4/1SURVEY NO 133 TO140, SANGEETH NGRMOOSAPET, VILLAGEBALANGR MANDAL, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1271</Data></Cell>
+    <Cell><Data>SHOP NO 115A DHANORI RD, VISHRANT WADI, 0, PUNE 411015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3016</Data></Cell>
+    <Cell><Data>D NO 9 39/5, GRND FLR NH-9 LALITHA NGR, MEGA THEATRE, HYDERABAD 500060</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3294</Data></Cell>
+    <Cell><Data>SHOP NO 6 &amp; 7 DAMODAR VILLA, S NO 3/2+3+1 KOTHRUD, 0, PUNE 411029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2911</Data></Cell>
+    <Cell><Data>D NO 6 - 13 / 1 9-6-192 NEW, BESIDE AIRTEL RELATIONSHIP CENTRE, NR YADGIRI THEATRE SANTHOSH NGR, HYDERABAD 500059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3396</Data></Cell>
+    <Cell><Data>KUMAR PACIFIC MALL SHANKARSHET RD, SWARGATE, 0, PUNE 411042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3015</Data></Cell>
+    <Cell><Data>G FLR D NO 48-307 &amp; 308, NEAR SHA THEATRE GANESH NGR, HMT RD CHINTAL, HYDERABAD 500054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 18004</Data></Cell>
+    <Cell><Data>SURVEY NO 588/1 &amp; 591/1UPPAL, KHALSA VILLAGEUPPAL MANDAL, RANGA REDDY DISTRICT, HYDERABAD 500039</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3303</Data></Cell>
+    <Cell><Data>OPP AXIS BANK S R NGR, MAIN RD, 0, HYDERABAD 500038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3281</Data></Cell>
+    <Cell><Data>7-1-450/MP/4 GROUND FLR SHOP, MANJEERA PLAZA, OPP ADITHYA TRADE, HYDERABAD 500038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2910</Data></Cell>
+    <Cell><Data>SY NO 157/1/G SOWBHAGYA NILAYAM, G FLR OPP SPENCERS SIKH RD, SECUNDERABAD BOWENPALLY, HYDERABAD 500009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3323</Data></Cell>
+    <Cell><Data>SHOP NO 6&amp;18 MCH GR FLR, UNITED BLDG, NEAR PARADISE MG RD, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2449</Data></Cell>
+    <Cell><Data>SHOP NO-G-13 SWATI COMPLEX, BESIDE MANDAKINI SOCIETY, K K NGR RD GHATLODIA, AHEMDABAD 380061</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1556</Data></Cell>
+    <Cell><Data>SHOP NO-GF/A-11 GALAXY AVENUE, NR GALAXY CINEMA NARODA VILLAGE, 0, AHEMDABAD 382330</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1564</Data></Cell>
+    <Cell><Data>SHOP 36 SARJAN 2, NEAR SPENCER STORE, NEW CG RD CHANDKHEDA, AHEMDABAD 382424</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1906</Data></Cell>
+    <Cell><Data>GF - 6&amp;7 SANGATH MALL, OPP VISHWAKARMA ENGG COLLEGE, SABARMATI GANDHINGR HIGHWAY, AHEMDABAD 382424</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1087</Data></Cell>
+    <Cell><Data>GROUND FLR, OPP RELIEF CINEMA, RELIEF RD, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2448</Data></Cell>
+    <Cell><Data>SHOP NO GF-8 SAMAAN COMPLEX, OPP NALANDA COMPLEX, MANSI TOWER CIRCULE VASTRAPUR, AHEMDABAD 380008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1351</Data></Cell>
+    <Cell><Data>SHOP NO 53 &amp; 53 A SHUKAN MALL, SHAHIBAUG, 0, AHEMDABAD 380004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1086</Data></Cell>
+    <Cell><Data>SHOP NO 101 1ST FLR, SHOPPERS PLAZA-1, OPP MUNICIPAL MRKT C G RD, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1411</Data></Cell>
+    <Cell><Data>SHOP NO 7 VARDHMAN COMPLEX, PALDI BHATTA RD PALDI, 0, AHEMDABAD 380007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1386</Data></Cell>
+    <Cell><Data>SHOP NO 7 HSG HOUSE, NEAR SUPAT FLATS, OPP RASRANJAN VIJAY CROSS RDS, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1554</Data></Cell>
+    <Cell><Data>SHOP NO-GF/3, SUPAN COMPLEX, OPP DHARNIDHAR DERASAR, AHEMDABAD 380007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2447</Data></Cell>
+    <Cell><Data>3 SHANTI ARCADE OPP NIRMAL APT, NR SAMARPAN TOWER, AAE OVER BRIDGE 132FT RING RD, AHEMDABAD 380013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2048</Data></Cell>
+    <Cell><Data>SHOP NO 15 / 16 ALANKAR COMPLEX, NR MANI NGR RAILWY XING, OPP CENTRAL BANK OF INDIA MANINGR, AHEMDABAD 380008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1352</Data></Cell>
+    <Cell><Data>SHOP 5 AJANTA COMMERCIAL CENTRE, NR INCOME TAX OFFICE ASHRAM RD, 0, AHEMDABAD 380014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1385</Data></Cell>
+    <Cell><Data>SHOP NO 49 50 &amp; 51, SARDAR CENTRE VASTRAPUR LAKE, 0, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1088</Data></Cell>
+    <Cell><Data>SANSKAR 2 NEAR KETAV PETROL PUMP, GOVT POLYTECHNIC RD AMBAVADI, 0, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1503</Data></Cell>
+    <Cell><Data>SHOP NO 12 &amp; 13 CORPORATE HOUSE, BODAKDEV, 0, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1384</Data></Cell>
+    <Cell><Data>SHOP NO 4&amp;5 REVERA ARCADE, NR PRAHALAD GRDN 100 FT RD, 0, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3460</Data></Cell>
+    <Cell><Data>BB HIMALAYA MALL GURUKOOL, NEAR INDRAPRAST TOWER DRIVE-IN RD, 0, AHEMDABAD 380052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1615</Data></Cell>
+    <Cell><Data>SHOP NO: 18 GND FLR, SAMARPAN ARCADE, OPP AMRAPALI SHOPPING CENTRE, AHEMDABAD 380058</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1616</Data></Cell>
+    <Cell><Data>SHOP NO ; 3 &amp; 4 HERITAGE PLAZA, OPP GURUKUL MANDIR DRIVE IN RD, 0, AHEMDABAD 380052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1979</Data></Cell>
+    <Cell><Data>ROYAL AKBAR TOWER, JUHAPURA SRAKHEJ RD JUHAPURA, 0, AHEMDABAD 380055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1575</Data></Cell>
+    <Cell><Data>SHOP NO -6 UPPER LEVEL, SHYAM SHIKHAR COMPLEX, DIAMOND MRKT CIRCLE BAPUNGR, AHEMDABAD 380024</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3397</Data></Cell>
+    <Cell><Data>ALPHA ONE PLOT NO 216 TP SCHEME-1, VASTRAPUR, 0, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3461</Data></Cell>
+    <Cell><Data>AHMEDABAD CITY MALL, NEW COTTON MILLS COMPOUND, OUTSIDE RAIPUR GATE OPP&#160; ARYA SEWA, AHEMDABAD 380022</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3489</Data></Cell>
+    <Cell><Data>185MB RDBIRATI, 0, 0, KOLKATA 700051</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ESSBEE PETROLEUM.(HPCL).</Data></Cell>
+    <Cell><Data>1/2/36 &amp; 37, NR IQRA HOSPITAL,, OPP. FATEHWADI, N.H. NO. 8,, JUHAPURA SARKHEJ ROAD, AHEMDABAD 380055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001094</Data></Cell>
+    <Cell><Data>19A-DR MEGHNAD SAHA SARANI-SOUTHERN, 19A DR. MEGHNAD SAHA SARANI, SOUTHERN AVENUE, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001089</Data></Cell>
+    <Cell><Data>1C-MOTISIL STREET-KOLKATA, 1 C MOTISIL STREET, 0, KOLKATA 700013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001082</Data></Cell>
+    <Cell><Data>AVANI RIVERSIDE-HOWRAH, AVANI RIVERSIDE MALL, 0, KOLKATA 711403</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001069</Data></Cell>
+    <Cell><Data>BHUPEN BOSE RD KOLKATA, 68 A BHUPEN BOSE RDGROUND, FLR NEARJAMES LONG SCHOOL, KOLKATA 700034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001050</Data></Cell>
+    <Cell><Data>CHOWRINGEE MANSION NEHRU RD, GROUND FLR, 30 H S/P JAWAHARLAL NEHRU RD, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001092</Data></Cell>
+    <Cell><Data>CIT RD-KANKURGACHHI-KOLKATA, P-183 C.I.T RD, KANKURGACHHI, KOLKATA 700054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001042</Data></Cell>
+    <Cell><Data>CITY CENTRE-2-NEW TOWN, PLOT NO AA IIDJ L NO.11 MOUJA, NOAPARA PO HATIARA RAJARHAT, KOLKATA 700157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001009</Data></Cell>
+    <Cell><Data>A 214 BLOCK D CITY CENTRE SALT LAKE, 0, 0, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001080</Data></Cell>
+    <Cell><Data>CITY HIGH, KOLKATA CITY HIGH 85 CITY HIGH, PRINCE ANWAR SHAH RD, KOLKATA 700071</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001058</Data></Cell>
+    <Cell><Data>CITY MALL BARASAT, 1/3 JESSORE RD DUCK, BUNGLOW MORE BARASAT, KOLKATA 700124</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001028</Data></Cell>
+    <Cell><Data>DOMESTIC AIRPORT KOLKATA, PARKING LOT AIRPORT NSCBIA, NEAR GATE NO.5 SECURITY COUNTER-A, KOLKATA 700052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001048</Data></Cell>
+    <Cell><Data>DOWN TOWN MALL, BLOCK 1B 177 &amp; 178, SALTLAKE CITY SEC 3, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001093</Data></Cell>
+    <Cell><Data>DR. RADHA GOBINDONATH SARANI-KOLKATA, 12-D, 0, KOLKATA 700033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001022</Data></Cell>
+    <Cell><Data>E-MALL, EMALL-3RD FLR FOOD COURT, 6TH CHITTARANJAN AVENUE, KOLKATA 700072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001015</Data></Cell>
+    <Cell><Data>GOLPARK, 59 BALLYGUNGE GARDEN GARDEN, GROUND FLR GOLPARKWEST BENGAL, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001027</Data></Cell>
+    <Cell><Data>INTERNATIONAL AIRPORT KOLKATA, ITB GROUND FLRNETAJI SUBHAS, CHANDRA BOSE INTERNATIONAL, KOLKATA 700052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001064</Data></Cell>
+    <Cell><Data>KARNANI MANSION KOLKATA, 25 B KARNANI MANSION, PARK STREET, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001031</Data></Cell>
+    <Cell><Data>MANI SQUARE, MALL 3RD FLR 164/1 MANIKTOLA RD BESIDE, APOLLO HOSPITAL E M BY PASS, KOLKATA 700054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001047</Data></Cell>
+    <Cell><Data>MANI SQUARE 2-KOLKATA, 164/1 MANIKTALA MAIN RAOD, 0, KOLKATA 700054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001044</Data></Cell>
+    <Cell><Data>MEDICA HOSPITAL-KOLKATA, 127 MUKUNDAPUR EM BYPASS, 0, KOLKATA 700099</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001096</Data></Cell>
+    <Cell><Data>OM ENCLAVE-KOLKATA, 59/2 B T RD, 0, KOLKATA 700002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001091</Data></Cell>
+    <Cell><Data>P-563-LAKE RD-KOLKATA, P563 LAKE RD, 0, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001046</Data></Cell>
+    <Cell><Data>PARKING LOT-AIRPORT NSCBI-KOLKATA, NEAR PARKING LOT AIRPORT NSCBIA, 0, KOLKATA 700052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001067</Data></Cell>
+    <Cell><Data>PVR HOWRAH, AVNI MALL PVR HOWRAH, 0, KOLKATA 700068</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001095</Data></Cell>
+    <Cell><Data>PVR JESSORE RD-KOLKATA, NEAR NAGERBAZAR 68 JESSORE, RD 5TH FLR DIAMOND PLAZA, KOLKATA 700071</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001061</Data></Cell>
+    <Cell><Data>PARK STREET 57-KOLKATA, GRDFLR NO57 PARKSTRREET, 0, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001052</Data></Cell>
+    <Cell><Data>RD MALL LILUAH HOWRAH-WEST BENGAL, 269 G.T.RD HOWRAH LILUAH, 0, KOLKATA 700103</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001066</Data></Cell>
+    <Cell><Data>SANTOSHPUR AVENUE KOLKATA, 226 SANTOSHPUR EVENUE, 0, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001025</Data></Cell>
+    <Cell><Data>SOUTH CITY MALL, SOUTH CITY MALL 375 PRINCE ANWAR, SHAH RD OPP. TO JODHPUR PARK, KOLKATA 711204</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001012</Data></Cell>
+    <Cell><Data>SOUTHERN AVENUE P-86 LAKE RD, 0, 0, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001090</Data></Cell>
+    <Cell><Data>SURYALAYA BD SECTOR 1, 14-SALT LAKE-KOLKATA, 0, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001075</Data></Cell>
+    <Cell><Data>WOODSQUARE MALL-KOLKATA, SHERWOOD ESTATE STATE HIGHWAY 1, RAMCHANDRAPUR NARENDRAPUR, KOLKATA 834001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001092</Data></Cell>
+    <Cell><Data>AMEERPET- HYDERABAD, SRINIVASA COLONY W WARD NO.8, SYNO.68 SRINIVA, HYDERABAD 500038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001079</Data></Cell>
+    <Cell><Data>APOLLO 2 JUBILEE HILLS, APOLLO HOSPITAL CANCER, LOCK FILMNAGAR, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001031</Data></Cell>
+    <Cell><Data>APOLLO HOSPITAL-HYDERABAD, RD NO-35JUBLEE HILLS, 0, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001078</Data></Cell>
+    <Cell><Data>APOLLO HYDERGUDA HYDERABAD, NO.3-5-871/4/1 NEAR, OLD MLA QRTS HYDERGUDA, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001071</Data></Cell>
+    <Cell><Data>BANJARA HILLS RD NO 02 GRND FLR, 2-120/77/2 TAX INVOICE-0118001071 RD, NO 2-BESIDE TDP PARTY OFFICE, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001066</Data></Cell>
+    <Cell><Data>BANJARA HILLS RD NO 10 HYDERABAD, GRND FLR OF BLDG PLOT NO 5, OLD PLOT 1 BESIDE RAINBOW HOSPITAL, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001069</Data></Cell>
+    <Cell><Data>BANJARA HILLS RD NO 12, 8 2 681 BESIDE RATNADEEP SUPER, MARKETBANJARAHILLS RD NO 12, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001025</Data></Cell>
+    <Cell><Data>BANJARA RD, GACHI BOWLI RD, MANIKONDA HI TECH CITY, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001065</Data></Cell>
+    <Cell><Data>BARKATPUR HYDERABAD, BEARING NO.1395 (NEW NO.3-4-851), SITUATED AT BARKATPURA, HYDERABAD 500027</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001075</Data></Cell>
+    <Cell><Data>CHILAKURU BALAJI TEMPLE H NO.6-13, OPP TO BUS STAND CHILKOOR MOINABAD, MANDALRANGA REDDY DISTRICT, HYDERABAD 501504</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001011</Data></Cell>
+    <Cell><Data>DILSUKH NAGAR, 16 11 767 COMMERCIAL COMPEX, MUSHARABAD CROSS RD, HYDERABAD 500004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001080</Data></Cell>
+    <Cell><Data>FEMINA WOMENS HOSPITAL, FEMINA WOMENS HOSPITAL RD, NO.12 BANJARA HILLS, HYDERABAD 560034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001042</Data></Cell>
+    <Cell><Data>FILM NAGAR-HYDERABAD, NO. 82 JUBILEE HILLS OPP.FIL HYDERABAD, NO.82 JUBILEE HILLS OPP.FIL, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001043</Data></Cell>
+    <Cell><Data>G48 INORBIT-CYBERABAD-HYD, G48 INORBIT-CYBERABAD-HYD, 0, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001060</Data></Cell>
+    <Cell><Data>GOLCONDA FORT HYDERBAD, GOLKONDA CAFE COFFEE DAY, OPP . GOLCONDA FORT BALAHISAR, HYDERABAD 500008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001036</Data></Cell>
+    <Cell><Data>GVK ONE MALL-HYDERABAD, HYD GVK ONE MALL-HYD, GVK ONE MALL RD NO. 1, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001006</Data></Cell>
+    <Cell><Data>HIMAYATH NAGAR, 3 6 431 JANUNA, PLAZAHIMAYATH NAGAR, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001015</Data></Cell>
+    <Cell><Data>HYD INFOSYS 2, HYD INFOSYS, COUNTER-2 MANIKONDA, HYDERABAD 500089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001044</Data></Cell>
+    <Cell><Data>HYDERGUDA-HYD EAST ANDHRA, HH NO 3 6 288 3 GRDFLR SRI SIVA RAMA, TOWERS NR APOLLO EMERGENCY HOSPITAL, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001094</Data></Cell>
+    <Cell><Data>INFOSYS KIOSK OPP. 6TH AND 7TH BLDG &amp;, ENTRANCE&#160; 6TH-7TH BLDG POCHARAM VILL., SINGAPORE TOWNSHIP P O RANGA REDDY, HYDERABAD 500088</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001068</Data></Cell>
+    <Cell><Data>INFOSYS SEZ SURVEY NO.41 &amp; 50 (PT), POCHARAM VILL. SINGAPORE TOWNSHIP, PO GHATKESAR MANDAL RANGAREDDY, HYDERABAD 500088</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001038</Data></Cell>
+    <Cell><Data>INORBIT MALL-CYBERABAD-HYDERABAD, NO 64 APIIC, SOFTWARE UNIT LAY, HYDERABAD 500050</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001091</Data></Cell>
+    <Cell><Data>SIDENTIAL HOUSE PLT NO.49 (W) PART, SURYODAYA CLNY MANSOORABAD VILL.CIRCLE, SAROOR NGR MANDAL RANGA REDDY DIST, HYDERABAD 500074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001049</Data></Cell>
+    <Cell><Data>LAKKADI KA PHOOL-HYDERABAD, SANDHYA HOTELS P LTD, OLD LAKKADI KA POOL, HYDERABAD 500004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001045</Data></Cell>
+    <Cell><Data>LIFESTYLE-2-HYDERABAD, MY HOME TYCOONSHOP NO.18, KUNDANBAGHBEGUMPET MAIN RD, HYDERABAD 500016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001039</Data></Cell>
+    <Cell><Data>MADHAPUR-HYDERABAD, PLOT 76 HOUSE NO 168 9 BESIDE, AIRTELSHOWROOM MADAPUR SECUNDRABAD, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001087</Data></Cell>
+    <Cell><Data>MARUTI NILYAM KAVURI HILLS PLOT NO.51, &amp; 52 BLOCK B BESIDE BENZ CAR SHOW ROOM, KAVURI HILLS MANDAL RANGA REDDY DIST, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001058</Data></Cell>
+    <Cell><Data>MIND SPACE-CYBERABAD-HYDERABAD, TILT FLR BLDG NO 9 RAHEJA, MINDSPACE HI TECH CITY CYBERABAD, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001095</Data></Cell>
+    <Cell><Data>NALAGANDALA RANGAREDDY DISTRICT HYD, SURVEY NO 79 &amp; 80 NALAGANDALA VILLAGE, SERLINGAMPALLY CIRCLE RANGAREDDY DIST, HYDERABAD 500019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001008</Data></Cell>
+    <Cell><Data>NECKLACE RD OPP LAKEVIEW POLICE ST, HYDERABAD NECKLACE, RD OPP LAKEVIEW POLICE ST, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001089</Data></Cell>
+    <Cell><Data>NEW HIMAYATHNAGAR, BALAJI ARCADE SHOP NO 3 BESIDE, UNION BANK OF INDIA HIMAYATHNAGAR, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001028</Data></Cell>
+    <Cell><Data>OSMANIA-HYDERABAD, OSMANIA UNIVERSITY CAMPUS, REA HYDERABAD OSMANIA-HYDERABAD, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001051</Data></Cell>
+    <Cell><Data>PBN CENTER RD NO. 45-HYD, PBN CENTER NO 1057, FJUBILEE HILLS RDNO 45, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001046</Data></Cell>
+    <Cell><Data>PRAGATI NAGAR-HYDERABAD, RANGA REDDY DISTRICT BACHIPAL, NAGAR RANGA REDDY DISTRICT BACHIPAL, HYDERABAD 501301</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001086</Data></Cell>
+    <Cell><Data>PVR HYDERABAD, 6-3-673/1-4 PANJAGUTTA, RD PUNJAGUTTA, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001017</Data></Cell>
+    <Cell><Data>RAHEJA MIND SPACE, RAHEJA MIND SPACE NO10, GROUND FLR HITECH CITY, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001076</Data></Cell>
+    <Cell><Data>SD RD BLDG KNOWN AS, LEELA BHAVAN.BEARING BESIDE, DCB BANK SAROJINI DEVI RD SECUNDERABAD, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001034</Data></Cell>
+    <Cell><Data>SHOPPERS STOP-CITY CENTER-HYD, SHOP NO.101-108 BRIO CAFE CITY CENTRE, 1ST FLR JNTCN OF RD NO.1 &amp; 10, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001002</Data></Cell>
+    <Cell><Data>SP RD, ASHOK BHOPAL CHAMBERS, G-1 S.P. RD BEGUMPET, HYDERABAD 500017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001077</Data></Cell>
+    <Cell><Data>SP RD BEGUMPET MAYFAIR COMPLEX, BESIDE PIZZA CORNER RASOOLPURA, VILL. HYDERABAD URBAN TALUK BEGAUMPET, HYDERABAD 500061</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001041</Data></Cell>
+    <Cell><Data>SR NAGAR-HYDERABAD, SANJEEVAREDDY, NAGAR NEAR POLICE STATION, HYDERABAD 500038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001090</Data></Cell>
+    <Cell><Data>TELECOM NAGAR-HYD PLOT NO3 5 SY NO.91, BESIDE HERITAGE FRESH GACHIBOWLI, SERILINGAMPALLY RANGAREDDY DISTRICT, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001062</Data></Cell>
+    <Cell><Data>VINAYAK NAGAR GACHIBOWLI, UNIT 102 UPPER GRDFLR PLOT, NO 141GACHIBOWLI VILLAGE R R DISTRICT, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118001056</Data></Cell>
+    <Cell><Data>WAVE ROCK-HYD, PHASE 2, NAIKRAMGUDAGACHIBOWLI, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 118006001</Data></Cell>
+    <Cell><Data>CL SURYAPET-AP VIJAYWADA-HYDERABAD, N-H NALGO SURYAPETHPCL SURYAPET-AP, VIJAYWADA-HYDERABAD N-H NALGO, HYDERABAD 508213</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>GASOLINE STATION</Data></Cell>
+    <Cell><Data>P 540, BLOCK - 'N'-, NEWALIPORE, KOLKATA 700053</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002086</Data></Cell>
+    <Cell><Data>BLUE RIDGE SEZ HINJEWADI PUNE, BLUE RIDGES FLAGSHIP INFRASTRUCTURE, PVT LTD RAJIV GANDHI IT PARK HINJEWADI, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002084</Data></Cell>
+    <Cell><Data>CENTRAL MSM MALL PUNE, CENTRALL-3 OPP GARWARE, COLLEGE KARVE RD, PUNE 411004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002042</Data></Cell>
+    <Cell><Data>CITY PRIDE-PUNE, CITY PRIDE COMPLEX, SATARA RD, PUNE 411004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002017</Data></Cell>
+    <Cell><Data>COCONUT GROOVE, SH.123 BLDG. A TAIN SQUARE S N, WANAWADI FATIMA NAGAR, PUNE 411040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002044</Data></Cell>
+    <Cell><Data>FLAME COLLEGE- PUNE, GAT NO. 1270 LAVLE VILLAGE TALUKA -, MULSHI BANER BALEWADI RD, PUNE 410507</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002032</Data></Cell>
+    <Cell><Data>HOTEL GINGER-PIMPARI, BESIDE KAMALA CROSS RD OPP., PIMPRI CHINCHWAD MINICIPAL CORP., PUNE 411018</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002089</Data></Cell>
+    <Cell><Data>ICC TECH PARK SB RD, CAFE UNIT ICC TECH PARK SHIVAJI NAGAR, SENAPATI BAPAT RDMAHARASHTRA, PUNE 411016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002037</Data></Cell>
+    <Cell><Data>IOC- SANJGAON AT MUMBAI - PUNE, EXPRESS HWY (ON PUNE MUMBAI TRACK), NEAR KHOPOLI TOLL PLAZA KHALAPUR DIST., PUNE 410203</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002006</Data></Cell>
+    <Cell><Data>KALYANI NAGAR, SHOP NO. 18 GOLD ADLAB, THEATRE KALYANINAGAR, PUNE 411046</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002016</Data></Cell>
+    <Cell><Data>KAPIL MALHAR SHOP NO 123, KALANAND APARTMENT OPP.KAPIL, MALHAR NEAR UTI BANK BANER RD, PUNE 411046</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002100</Data></Cell>
+    <Cell><Data>KRISHNA KUNJ- LAW COLLEGE RAOD- PUNE, SHOP NO 2+334 &amp; 5, ERANDAVANA LAW COLLEGE RD, PUNE 411004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002009</Data></Cell>
+    <Cell><Data>MANTRA, MANTRA MALL SALUNKE VIHAR, RD KONDHAWA, PUNE 411048</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002098</Data></Cell>
+    <Cell><Data>MATRIX KHARADI-PUNE, MATRIX UNIT NO 5 GRND, FLR VILLAGE KHARADI, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002043</Data></Cell>
+    <Cell><Data>MIT RD-PUNE, OPP. TO MIT COLLEGE SHOP NO. 15 &amp; 16, BLDG NO.F VANRAJI SOCIETY KOTHRUD, PUNE 411038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002012</Data></Cell>
+    <Cell><Data>MUSICWORLD PUNE NUCLEUS MALL, NEAR MUSIC WORLD G2 GRND FLR, OPP.COMMISSIONER OFFICE, PUNE 411048</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002073</Data></Cell>
+    <Cell><Data>PANCHSHIL IT PARK PUNE COFFEE DAY, LOUNGE BLOCK-B SURVEY NO 191, NEAR DON BOSCO SCHOOL YERWADA, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002021</Data></Cell>
+    <Cell><Data>PERSIAN CYBER CAFE SHARADA TERRACE, OPP. CORPORATION BANK, NEAR SYMBOISIS COLLEGE VIMAN NAGAR, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002095</Data></Cell>
+    <Cell><Data>PLEXUS COMMERCIAL- GAIKWAD NAGAR- PUNE, COFFEE DAY LOUNGE PLEXUS OPP. OZONE, MALL ITI RD AUNDH, PUNE 411007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002077</Data></Cell>
+    <Cell><Data>PMC PUNE- (LOUNGE), PVR PHOENIX MARKET CITY 2ND FLR, AHMEDNAGAR RD, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002072</Data></Cell>
+    <Cell><Data>PULSE MALL PUNE, PULSE MALL GRND FLR NEXT TO ISTA HOTEL, AHMEDNAGAR RD NEAR AGAKHAN PALACE, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002092</Data></Cell>
+    <Cell><Data>PVR MARKET CITY- PUNE LALWANI REGENCY, BEHIND HYATT HOTEL NEXT TO, MAHARASHTRA BANK VIMAN NAGAR, PUNE 411016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002061</Data></Cell>
+    <Cell><Data>MUMBAI -PUNE-BANGALORE HWY RAWAT, BROS FURNITURES P L SHREE SHANKAR, UDYOG OPP RELIANCE PUMP KELAWADE, PUNE 411018</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002099</Data></Cell>
+    <Cell><Data>SEASONS MALL-PUNE (LOUNGE), SEASONS LOUNGE UNIT NO T 22 THIRD FLR, MAGARPATTA CITY HADAPSAR, PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002097</Data></Cell>
+    <Cell><Data>SHINDE COMPLEX- BAVDHAN KHURD- PUNE, SHOP NO. 13 BUILDING NO. 11 &amp; 12, VIKASNAGAR COLONY BAVDHAN KHURD, PUNE 411021</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002022</Data></Cell>
+    <Cell><Data>SHIVSAGAR AUNDH, SHOP NO.1 SITA APT OPP.SHIVSAGAR, RESTAURANT AUNDH, PUNE 411027</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002065</Data></Cell>
+    <Cell><Data>SHOPPERS STOP INORBIT MALL - PUNE, OPP CTR FACTORY SOMNATH NAGAR CORNER, PUNE NAGAR HIGHWAY VADGAON SHERI, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002096</Data></Cell>
+    <Cell><Data>SINHGAD INSTITUTE- LONAVALA-PUNE, SINHGAD INSTITUTE GAT 309, KUSGAON BU. LONAVALA, PUNE 410401</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002094</Data></Cell>
+    <Cell><Data>SMILE STONE - PUNE, SMILESTONE MOTELS PVT. LTDKOMERGOAN, PUNE AHMENDNAGAR HIGHWAY, PUNE 414001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002093</Data></Cell>
+    <Cell><Data>SYMBIOSIS INSTITUTE-MULSHI- PUNE, LAVLE HILL BASE CAMPUS, VILLAGE NANDE SUS RD MULSHI, PUNE 412115</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002013</Data></Cell>
+    <Cell><Data>TAJE EXPRESSWAY CAFE MUMBAI - PUNE, HP FUEL CENTRE VILLAGE, GAT NO. 624 &amp; 625 TALUKA MAVAL DISTT., PUNE 410401</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002070</Data></Cell>
+    <Cell><Data>TOWN CENTRE AMANORA HADAPSAR-PUNE, TOWN CENTRE AMNORA CITY HADAPSAR RD, OPP. TO MAGARPATTA CITY HADPSAR, PUNE 412306</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002088</Data></Cell>
+    <Cell><Data>VIJAY PETROLEUM SARADWADI PUNE, ESSAR PETROL PUMP SHARAD VADI, NEAR SHIRURU PUNE NAGAR HIGHWAY, PUNE 412210</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002035</Data></Cell>
+    <Cell><Data>VIMAN NAGAR TECH PARK, SHOP NO.2 VIMAN NAGAR TECH, PARK OPP. BROOKSIDE HOTEL, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002023</Data></Cell>
+    <Cell><Data>VIVA INN, NDA RD CHANDANI CHOWK NEXT TO, BYPASS HIGHWAY BAVDHAN, PUNE 411021</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113002067</Data></Cell>
+    <Cell><Data>WIPRO CAMPUS PHASE 1 HINJEWADI-PUNE, WIPRO PHASE I GRND FLR, CAFETERIA HINHEWADI, PUNE 411057</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 113011001</Data></Cell>
+    <Cell><Data>BPCL KHEDA SHIVAPUR - PUNE HIGHWAY, AT/PO- KHED SHIVAPUR, TALUKA- HAVELI DIST-, PUNE 412205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004020</Data></Cell>
+    <Cell><Data>CENTRAL MALL - AHMEDABAD, AHMEDABAD CENTRAL 3RD FLR NEAR, AMBAVADI PANCHAVATI RD, AHEMDABAD 380006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004010</Data></Cell>
+    <Cell><Data>DEV ARPAN PALDI, DEV ARPAN PALDI 4 &amp; 5 DEV ARPAN, PALDI CROSS RD PALDI, AHEMDABAD 380007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004028</Data></Cell>
+    <Cell><Data>GCP BUSINESS PARK, GCP BUSINESS PARK OPP MEMNAGAR FIRE, STATION N/R VIJAY CROSS RD, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004016</Data></Cell>
+    <Cell><Data>GUL MOHAR PARK-AHMEDABAD, KSHITIJ MALL NEAR FUN, REPUBLIC SATELITE RD, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004015</Data></Cell>
+    <Cell><Data>HIMALAYA MALL, HIMALAYA MALL GRND, FLR DRIVEIN RD, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004005</Data></Cell>
+    <Cell><Data>MANINAGAR, CITY PULSE THEATRE, MANI NAGAR RAIPUR, AHEMDABAD 380022</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004021</Data></Cell>
+    <Cell><Data>PVR ACROPOLIS - AHMEDABAD, PVR CINEMA THE ACROPOLIS MALL THALTEJ, CROSS RD S.G. HIGHWAY, AHEMDABAD 380059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004019</Data></Cell>
+    <Cell><Data>SACHET -2-AHMEDABAD, OPP GUJARAT LAW COLLEGE NEAR RELIANCE, HOUSE OFF C G RD NAVRANGPURA, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004029</Data></Cell>
+    <Cell><Data>SHIVALIK PLAZA- AHMEDABAD- GUJ, SHOP NO. A-1 GF NEAR ATIRA POLYTECHNIC, OPPOSITE A.M.A PANJARA POLE IIM RD, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004031</Data></Cell>
+    <Cell><Data>SHREE KRISHNA- MITAKALI- AHMEDABAD, SHREE KRISHNA CENTER GRND FLR, NEAR CROSS WORD MITHAKHALI, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149004030</Data></Cell>
+    <Cell><Data>SIGMA EXCELLENCE- AHMEDABAD, SHOP NO 02 GRND FLR, SIGMA EXCELLENCE VASTRAPUR, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 149003001</Data></Cell>
+    <Cell><Data>ANAND, ANAND COMPLEX SHOP NO 5-6 C G RD NEAR, GIRISH COLD DRINKS NAVRANGPURA, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001084</Data></Cell>
+    <Cell><Data>AMBHUJA UPOHAR, AMBHUJA, UPOHAR GARIA, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001005</Data></Cell>
+    <Cell><Data>BALLYGANG, TRIPURA ENCLAVE, 59BALLYGUNGE CIRCULAR, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001059</Data></Cell>
+    <Cell><Data>BARERAIPUR RD, 183D, BARERAIPUR RD, KOLKATA 700032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001034</Data></Cell>
+    <Cell><Data>BASANT BOSE RD, # 17 BASANT BOSE RD PS, BHOWANIPOREWEST BENGAL, KOLKATA 700026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001037</Data></Cell>
+    <Cell><Data>BPCL RUBY HOSPITAL 46 SHANTI, PALLIRB CONNECTOR FUEL POINT, (BPCL PUMP) NEAR RUBY HWEST BENGAL, KOLKATA 700107</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001053</Data></Cell>
+    <Cell><Data>CRYSTAL MALL - I GLOBSYN, CRYSTAL SXI-11 &amp; 12 BLOCK-EP SECTOR-V, SALT LAKE ELECTRONICS COMPLEX, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001073</Data></Cell>
+    <Cell><Data>E2-HB TOWN SODEPUR CALCUTTA, E2 HB TOWN SODPURE, WEST BENGAL, KOLKATA 700110</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001039</Data></Cell>
+    <Cell><Data>18/2/48 UDAY SHANKAR SARANI GOLF GREEN, 234 BUS STAND AFTER KOLKATTA, DOORDARSHA GOLF GREEN WEST BENGAL, KOLKATA 700095</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001068</Data></Cell>
+    <Cell><Data>GROUND FLR ARCH GALAXY(ICORE PLANET), NO 45-B ASHUTOSH, MUKHERJEE RD WEST BENGAL, KOLKATA 700025</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001049</Data></Cell>
+    <Cell><Data>INFOSPACE&#160; UNITECH HITECH STRUCTURES, IT/ ITES SEZ ACTION AREA ID, NEW TOWN RAJARHAT WEST BENGAL, KOLKATA 700156</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001074</Data></Cell>
+    <Cell><Data>JESSORE RD, PGE CENTERNEAR BANGUR MORE, JESSORE RDWEST BENGAL, KOLKATA 700006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001006</Data></Cell>
+    <Cell><Data>MILLENNIUM TOWERS MILLENNIUM, IBM BUILDING DN-62 SECTOR IV, SALT LAKE CITYWEST BENGAL, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001041</Data></Cell>
+    <Cell><Data>NOLA LAKE TOWN, UNIT NO A PLOT NO P 251, BLOCK B LAKE TOWN, KOLKATA 700089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001086</Data></Cell>
+    <Cell><Data>UNITECH INFOSPACE ACTION AREA, 1D NEWTOWN RAJARHAT UNITECH, HITECH STRUCTURES IT/ITES SEZ, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001022</Data></Cell>
+    <Cell><Data>ACCENTURE-HYD, RAHEJA, MINDSPACEHITEC, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001029</Data></Cell>
+    <Cell><Data>ADLABS-HYDERABAD, # 8-3-949/1 GS24 BIG, BAZAR AMEE ADLABS CINEMAS 5TH FLR, HYDERABAD 500038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001047</Data></Cell>
+    <Cell><Data>AS RAO NAGAR A- 13 KAPRA ID, OPP: TANISHQ SHOW ROOM, DR AS RAO NAGAR NO 2 GROUND FLR, HYDERABAD 500062</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001088</Data></Cell>
+    <Cell><Data>BANJARAHILLS RD NO: 14, HNO: 8-2-638/4, SHNO: 8-2-638/4 SY NO: 129/56, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001057</Data></Cell>
+    <Cell><Data>HYDERABAD CENTRAL MALL PUNJAGUTTA, CROSS RD#, 6-3-673/1-4 2ND FLR, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001055</Data></Cell>
+    <Cell><Data>CHARMINAR CAFE, FIRST FLR OF THE, BUILDING OPP CHARMINAR, HYDERABAD 500002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001032</Data></Cell>
+    <Cell><Data>HILL COLONY, #17 PRASHANTH NAGARHILL COLONY, VANASTHILI HILLSVANASTHALIPURAM, HYDERABAD 500070</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001063</Data></Cell>
+    <Cell><Data>HOME TOWN, PANJAGUTTA NEAR, HYDERABAD CENTRAL, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001007</Data></Cell>
+    <Cell><Data>MAJESTIC HEIGHTS, SOMAJIGUDAMAJESTIC, HEIGHTSRAJ BHAVAN RD, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001052</Data></Cell>
+    <Cell><Data>OPP GANDHI HOSPITAL VIJETHA SANJEEVANI, NO 6-4-8KRISHNA NAGAR COLONY MEDICAL, COLLEGE BHOLAKAPUR MUSHEERABA, HYDERABAD 500020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001012</Data></Cell>
+    <Cell><Data>RMZ HYD, BLOCK A# 16/11-767RMZ, FUTURA HI TECH CITY PHASE 2, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001059</Data></Cell>
+    <Cell><Data>SHOPPER STOP BEGUMPET, STREET NO-3 ALLAUDDIN MANSION BEGUMPET, # 1-11-251/1 5TH FLR JAYA TOWERS, HYDERABAD 500016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001035</Data></Cell>
+    <Cell><Data>SHOPPERS STOP - GVK MALL, BANJARA HILLSRD NO 1 BRIO, CAFESHOPPERS STOP GVK MALL, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001053</Data></Cell>
+    <Cell><Data>NEAR DELHI PUBLIC SCHOOL DIAMOND, POINT SIKH VILLAGEPLOT NO 5 K1 SQUARE, THOKATTA VILLAGE SECUNDERABAD, HYDERABAD 500009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001037</Data></Cell>
+    <Cell><Data>SINDHI COLONY, PLOT NO6 HOUSE NO1-8-229/6, SINDHI COLONY SECUNDERABAD, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001074</Data></Cell>
+    <Cell><Data>SRINAGAR COLONY, SUNIL PRIDE PLOT NO 8-3-1027/A-1, SRINAGAR COLONY MAIN RD, HYDERABAD 500073</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001061</Data></Cell>
+    <Cell><Data>BOLARAM RD (VIKRAMPURI RD)GROUND, FLR TIVOLI TALKIES CINEMA SECUNDERBAD, BUILDING BEARING NOS 221 AND 22, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001054</Data></Cell>
+    <Cell><Data>VASAVI TOWERS WEST MARREDPALLY, SECUNDERABAD CANTONMENT OPP:, HERITAGE FRESH SECUNDERABAD, HYDERABAD 500026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001070</Data></Cell>
+    <Cell><Data>VIKRAMPURI THOKATTA-SECUNDERABAD, VILLAGE SECUNDERABAD CANTT PLOT NO:12, SURVEY NUMBER 160 THOKATTA, HYDERABAD 500026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SAI EXPRESSWAY SERVICE-HPCL</Data></Cell>
+    <Cell><Data>SR NO157/2/1A TATHAWADE NEAR INDIA, COLLEGE DIST PUNE TALUKA MULSHI, 0, PUNE 411033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SINHAGAD PETROLEUM-HPCL</Data></Cell>
+    <Cell><Data>GAT NO 245 GORHE BK PANSHET RD, TAL HAVELI SINHGAD PAYTHA, SINHGAD RD GORHE BK, PUNE 411042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>N P PETROLEUM-HPCL</Data></Cell>
+    <Cell><Data>PLOT NO 2 GAT NO 3976 AT POST TALEGAON, DHAMDHERE TALEGAON SHIKRAPUR ROAD CITY, TALEGAON DHAMDHERE, PUNE 412208</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>GOPAL SERVICE STATION-HPCL</Data></Cell>
+    <Cell><Data>JESSORE ROAD MURALI, POST BAMANGACHI, P.S BARASAT, KOLKATA 743248</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>US POLO-INORBIT PUNE</Data></Cell>
+    <Cell><Data>SHOP NO. S-40 &amp; S-41, FIRST FLR INORBIT MALL NO.35, AHMEDNAGAR RD VADGAONSHERI HAVELI, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FLYING MACHINE- SALT LAKE-KOLKATA</Data></Cell>
+    <Cell><Data>FLYING MACHINE SHOP NO.A-220, 2ND FLR CITY CENTRE MALL, PLOT NO: DC 1 SALT LAKE, KOLKATA 700046</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>US POLO-SALT LAKE-KOLKATA</Data></Cell>
+    <Cell><Data>SHOP NO.A-104 FIRST FLR, CITY CENTRE MALL PLOT NO: DC 1, SALT LAKE KOLKATA, KOLKATA 700046</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001087</Data></Cell>
+    <Cell><Data>MARUTI NILYAM KAVURI HILLS HYDERABAD, KAVURI HILLS GUTTALABEGUMPER VILLAGE, 44/P 45 46 &amp; 48, HYDERABAD 500040</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001055</Data></Cell>
+    <Cell><Data>CHARMINAR CAFE, FIRST FL OF THE BLDG, OPP. CHARMINAR, HYDERABAD 500002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001073</Data></Cell>
+    <Cell><Data>EMERALDO BALANGAR- HYDERABAD, SURVEY NO 69 MAHABOOB NGR, DISTRICTGF EMERALDO BLDG NO.14, HYDERABAD 500037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001042</Data></Cell>
+    <Cell><Data>FILM NGR-HYDERABAD, NO 82 JUBILEE HILLS, JUBILEE HILLS CHS LTD, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001027</Data></Cell>
+    <Cell><Data>GMR INTR'NL AIRPORT GMR HYDERABAD, INTR'NL AIRPORTSAHMSHABAD, RANGA REDDY DISTRICTSAHMSHABAD, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001060</Data></Cell>
+    <Cell><Data>GOLCONDA FORT HYDERBAD, BALAHISAR, GOLCONDA FORTNO M C H NO 9-8-264/4, HYDERABAD 500008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001036</Data></Cell>
+    <Cell><Data>GVK ONE MALL-HYDERABAD, GVK ONE MALL, RD NO. 1 BANJA, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001078</Data></Cell>
+    <Cell><Data>APOLLO HYDERGUDA HYDERABAD, NEAR OLD MLA QARTERS, HYDERGUDDA, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001047</Data></Cell>
+    <Cell><Data>AS RAO NGR-HYD, A- 13, DR AS RAO NGRNO 2 GF, HYDERABAD 500062</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001071</Data></Cell>
+    <Cell><Data>BANJARA HILLS RD NO 02 HYDERABAD, BANJARA HILLS, GF NO.8-2-120/77/2 RD NO.02, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001029</Data></Cell>
+    <Cell><Data>ADLABS-HYDERABAD, # 8-3-949/1 GS24, BIG BAZAR 5TH FLR AMEEADLABS CINEMAS, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001054</Data></Cell>
+    <Cell><Data>VASAVI TOWERS-SECUNDERABAD, HYDERABAD WEST MARREDPALLY, OPP. HERITAGE FRESH SECUNDERABAD, HYDERABAD 500026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002059</Data></Cell>
+    <Cell><Data>INFOCITY-HADAPSAR-PUNE, PUNE-SASWAD RD HADAPSARSP INFO CITY, NEXT TO SATHYA PURAM SOCIETY, PUNE 412306</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY113002070</Data></Cell>
+    <Cell><Data>TOWN CENTRE AMANORA HADAPSAR-PUNE, (17-1/2 NALI) HADAPSAR, VILL. SADESATRANAL, PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY118001075</Data></Cell>
+    <Cell><Data>GR FL NO 6-13 IN GRAMAKANTAM, H/O.CHILKOOR VILL., &amp; G.P MOINABAD MANDAL RANGA REDDY, HYDERABAD 501504</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ARROW-KUKATPALLY</Data></Cell>
+    <Cell><Data>SHOP NO.U/2 MOVVA, NEST COMPLEXNIZAMPET, RD KUKATPALLY, HYDERABAD 500085</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>US POLO-QUEST-RPG</Data></Cell>
+    <Cell><Data>SHOP NO.313, THIRD FLOOR&#160; QUEST MALL, PLOT NO: 33&#160; SYED AMIR ALI AVENUE, KOLKATA 700017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY 145001024</Data></Cell>
+    <Cell><Data>RBD BOULEVERD, RDB ADLABS # K1 BLOCK-EP &amp; GP, SECTOR 5 SALT LAKE, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY145001011</Data></Cell>
+    <Cell><Data>INFINITY - KOLKATA, INFINITY BUILDING SECTOR - 5SALT LAKE, NEAR SDF BUILDING WEST BENGAL, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FLYING MACHINE</Data></Cell>
+    <Cell><Data>PCH GVK SHOP NO 15FIRST, FLOOR GVK ONEMALL ROAD, NO 1 BANJARA HILLS, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - FILMNAGAR</Data></Cell>
+    <Cell><Data>ANAND SQUAREPLOT NO, 214-III ROAD NO 82, OPP TO FILMNAGAR SOCIETY FILM NAGAR, HYDERABAD 500096</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>US/FM</Data></Cell>
+    <Cell><Data>PCH DILSUKHNAGARNO, 16 11 741 B B GRDFLR, MOOSARAMBAGH DILSUKHNAGAR, HYDERABAD 500036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>US/FM</Data></Cell>
+    <Cell><Data>PCH HABSIGUDA PLOTNO, 1 SY NO 18 EMANIKPURI, HABSIGUDA MAIN RD, HYDERABAD 500007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - CAMAC STREET</Data></Cell>
+    <Cell><Data>1/1 CAMAC STREET &amp;, 8/1A SIR WILLIAM JON, AES SARANI MIDDLETON ROW, KOLKATA 700071</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>US</Data></Cell>
+    <Cell><Data>PCH HIMAYAT NAGAR, NO 7 TO 10 PANALALCHAMBER, MUNCIPAL, NO 3 6 138 8 &amp; 9 HIMAYAT NGR, MAIN RD, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - AMANORA</Data></Cell>
+    <Cell><Data>AMANORA PARK TOWNSHI, P HADAPSAR VILLAGE, SADESATRANALI(17-1/2&#160; NALI)TALUK HAVEL, PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>US</Data></Cell>
+    <Cell><Data>PCH JUBILEE HILLSGRD, FLR 8 2 293 82 A714 &amp; 8 2 293, 82 A 714 1 RD NO 36 JUBILEE HILLS, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FM/US</Data></Cell>
+    <Cell><Data>PCH TOLI CHOWK 8 140061, RETIBOWLIDELUX COLONY, BESIDE GALAXI THEATRE, HYDERABAD 500008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - SB ROAD</Data></Cell>
+    <Cell><Data>F.P. 403 ICC TECH P, ARKSENAPATI BAPAT ROAD, 0, PUNE 411016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - KUKATPALLY</Data></Cell>
+    <Cell><Data>2-6-11/104 VIJAY SA, I TOWERS MAIN ROAD KU, KATPALLY, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - HIMAYATNAGAR</Data></Cell>
+    <Cell><Data>SHP#101102103 MPM, MILLENNIUMWAZIHUDDIN, ESTATE HIMAYAT NAGAR MAIN ROAD, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - MALAKPET</Data></Cell>
+    <Cell><Data>MALAKPETH NO.16-10-, 27/105/13 TO 18 BESID, E ANDHRA BANK MAIN ROAD, HYDERABAD 500036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - MADHAPUR</Data></Cell>
+    <Cell><Data>MADHAPUR HI-TEC BK, TOWERS PLOT # 1 SURV, EY # 64 HUDA TECHNO ENCLAVE MADHAPUR, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME - TOWLICHOWKI</Data></Cell>
+    <Cell><Data>ANAND SILICON CHIP, GACHIBOWLI ROAD (150, FT)OLD MUMBAI HIGHWAY TOLICHOWKI, HYDERABAD 500008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ELLE</Data></Cell>
+    <Cell><Data>SHOP NO.108-A FORUM, MALL ELGIN ROAD, 0, KOLKATA 700020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ELLE</Data></Cell>
+    <Cell><Data>GROUND FLR UA/29,SHOP NO.1 BUNGLOW RD, JAWAHAR NAGAR, 0, KOLKATA 700001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE-3374</Data></Cell>
+    <Cell><Data>GROUND FLOOR BLOCK B AXIS MALL, CF-9 ACTION AREA IC NEW TOWN RAJAGHAT, 0, KOLKATA 700156</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE-3386</Data></Cell>
+    <Cell><Data>PLOT NO 7 BLOCK EN ,SECTOR V, SALT LAKE CITY, 0, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FLYING MATCHING</Data></Cell>
+    <Cell><Data>SHOP NO. F-35&#160; FIRST, FLOOR&#160; ALPHA ONE MALL PLOT NO.216, T.P. SCHEME - 1&#160; NEAR VASTRAPUR LAKE, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FLYING MACHINE</Data></Cell>
+    <Cell><Data>NO.2-2-1108/1/2 ROYAL, EXOTICA APTS OPP:, INDIAN OIL PETROL PUMPS SHIVAM ROAD, HYDERABAD 500044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ARROW</Data></Cell>
+    <Cell><Data>NATIONAL PLAZAOPP., LAL BUNGLOW C G ROAD, NAVARANG PURA, AHEMDABAD 110017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ARROW</Data></Cell>
+    <Cell><Data>SHOP NO-G11 GROUND, FLOOR GULMOHAR PARK, OPP SATELITE POLICE STATION, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>U.S POLO</Data></Cell>
+    <Cell><Data>GROUND FLOOR PHOENIX MILL, PT PHOENIX MARKET CITY MALL B/H BAKER, GAUGENEXTTOTYCOELECTRONICVIMAN NAGAR, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CLUB AMERICA</Data></Cell>
+    <Cell><Data>GROUND FLOOR PHOENIX MILL, PT PHOENIX MARKET CITY MALL B/H BAKER, GAUGENEXTTOTYCOELECTRONICVIMAN NAGAR, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FLYING MACHINE</Data></Cell>
+    <Cell><Data>BASEMENT PHOENIX MILL, H BAKER GAUGE NEXT TO TYCO, ELECTRONIC VIMAN NAGARNAGAR RD, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ARROW</Data></Cell>
+    <Cell><Data>VIMAN NAGAR CHOWK PUNE, NAGAR ROAD VADGAON, PUNE INORBIT MALL 1ST FLOOR, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ARROW</Data></Cell>
+    <Cell><Data>SHOP NO.S-126 FIRST, FLOORINORBIT MALL SHERI HAVELI, NO.35 AHMEDNAGAR ROADVADGAON, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ENERGY</Data></Cell>
+    <Cell><Data>SHOP NO. G-6 &amp; G-7 GROUND FLOOR, ALPHA ONE MALL,PLOT NO.216T.P.SCHEME-1, NEAR VASTRAPURLAKE VASTRAPUR, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>USPA/ENERGY</Data></Cell>
+    <Cell><Data>SHOP NO.3 LOWER GROOUND, FLOORGVK ONE O.6-3-251, ROAD NO.1BANJARA HILLS, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE-PARK STREET</Data></Cell>
+    <Cell><Data>SHOP NO. 4 OPP STANDARD, CHARTERED BANK, 20,DOBSON ROAD HOWRAH, KOLKATA 711101</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE-PARK STREET</Data></Cell>
+    <Cell><Data>31 CHOWRINGEE ROAD, KOLKATA 17, AIRTEL RELATIONSHIP CENTER, KOLKATA 700087</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE-PARK STREET</Data></Cell>
+    <Cell><Data>SHOP NO. 004 GROUND FLOOR, ATRIUM CITY CENTER NEW TOWN, PLOT NO AA-11D/5,JLNO 11 RAJARATH, KOLKATA 700157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE-PARK STREET</Data></Cell>
+    <Cell><Data>BALLYGUNJE GARDEN, GOLPARK KOLKATA 19, 0, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE-PARK STREET</Data></Cell>
+    <Cell><Data>2A, ELGIN ROAD, NEAR BHOWANIPORE EDUCATION, ROAD HOWARH, KOLKATA 700020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>STORE CODE  2ND FLOOR, PHOENIX MARKET CITY, VIMAN NAGAR, 0, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>STORE CODE 3527 ,SHOP NO 8;, 1ST FLOOR; DIAMOND PLAZA,, 68 JESSORE ROAD, KOLKATA 700055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 1077</Data></Cell>
+    <Cell><Data>2A ELIGIN ROAD, NEW BHOWANIPORE, EDUCATION SOCIETY, 0, KOLKATA 700020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 2300</Data></Cell>
+    <Cell><Data>31 CHOWRINGEE ROAD,AIRTEL RELATIONSHIP, CENTRE, 0, KOLKATA 700017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3102</Data></Cell>
+    <Cell><Data>SHOP NO CAN 004 GROUND FLOOR, ATRIUM CITY CENTRE NEW TOWN AA-II D/5, JL NO 11 PO-HATIARA RAJARHAT, KOLKATA 700157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE - 3229</Data></Cell>
+    <Cell><Data>58 BALLYGUNJE GARDEN, GOLPARK, 0, 0, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BEANSTALKBS-MALAKPET</Data></Cell>
+    <Cell><Data>16-10-27/105/13 TO, 18BESIDE ANDRA BANK, MALAKPET, HYDERABAD 500036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BEANSTALKBS-BANJARAHILLS</Data></Cell>
+    <Cell><Data>MAHINDRA RETAIL PVT, LTD8-2-703/A NEXT TO, ELBIT DIAGNOSTICS AMRUTHA VALLEYROAD N, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; MECITY CENTER-2-KOLKATA</Data></Cell>
+    <Cell><Data>MAHINDRA RETAIL PVT, . LTD.CITY CENTER NO C0007, GROUND FLOORNEW TOWN NOA PARAACTION AR, KOLKATA 700157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAUTICA -  SOUTH CITY MALL</Data></Cell>
+    <Cell><Data>SHOP NO.S-016 NO. 375, PRINCE ANWAR SHAH ROAD, 0, KOLKATA 700068</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAUTICA - MARKET CITY PHOENIX</Data></Cell>
+    <Cell><Data>UNIT NO UG-61 UPPER GR FLR PHOENIX MKT, CITY, PUNE SUVEY NO.207 WADGAONSHERI, VIMANNAGAR, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NEXT - KOREGON PLAZA PUNE</Data></Cell>
+    <Cell><Data>SHOP NO.GF-12 KOREGAON PARK SHOPPING `, CENTRE. NO.37, HISSA NO.4 MOUJE VILL, GORPADI TALUKA, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAUTICA - KOREGON PLAZA PUNE</Data></Cell>
+    <Cell><Data>SHOP NO.GF-11 KOREGAON PARK SHOPPING, CENTRE. NO.37, HISSA NO.4 MOUJE VILL, GORPADI TALUKA, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NAUTICA - ALPHA ONE MALL</Data></Cell>
+    <Cell><Data>G-39 GROUND FLOOR ALPHA ONE MALL PLOT, NO 216,&#160; T.P SCHEME NEAR VASTRAPUR, LAKE, VASTRAPUR, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MOM &amp; ME</Data></Cell>
+    <Cell><Data>GROUND FLOOR JAINAM&#160; TOWERS BELOW, HOTEL SWAGATH BAHADURGUDA, L.B.NAGAR CROSS ROADL.B.NAGAR, HYDERABAD 500074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BEANSTALK</Data></Cell>
+    <Cell><Data>GROUND FLOOR JAINAM&#160; TOWERS, BELOW HOTEL SWAGATH BAHADURGUDA, L.B.NAGAR CROSS ROADL.B.NAGAR, HYDERABAD 500074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BEANSTALK</Data></Cell>
+    <Cell><Data>MAHINDRA RETAIL PVT LTD., MP- PLAZA PLOT NO. 73 SY NO. 30G.L.R, SY-371, P &amp; T COLONYTHRIMULGHERRY, HYDERABAD 500015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FM - RAJ COLLECTION</Data></Cell>
+    <Cell><Data>PLOT NO.18, NEW VASAVI NAGAR KARKANA, 0, HYDERABAD 500009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CHAKRA FILLING STATION</Data></Cell>
+    <Cell><Data>5-5-659/9 ABIDS NAMPALLY STATION ROAD, 0, 0, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SRI ANJANEYA MOTOR FUELS</Data></Cell>
+    <Cell><Data>#8-1-299/C,/1, MAIN ROAD, SHAIKPET, P.O GOLCONDA, 0, HYDERABAD 500008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BALAJI PETROLEUM - HPCL</Data></Cell>
+    <Cell><Data>PLOT NOI 4, GAT NO 1403, WAGHOLI PUNE, NAGA, R ROAD WAGHOLI TALUKA HAVELI, 0, PUNE 412207</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHANTAI SERVICE CENTRE - HPCL</Data></Cell>
+    <Cell><Data>S NO 116/3 KALAS&#160; PUNE, ALANDI ROAD, 0, 0, PUNE 411015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>RAJESH PETROLEUM-HPCL</Data></Cell>
+    <Cell><Data>GUT NO.1794, AT POST RANJANGAON, TALUKA SHIRUR, PUNE 412209</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>RASHID KHODADAD (PETROL DEPT) &amp;CO-HPCL</Data></Cell>
+    <Cell><Data>1 GEM THIMAYA ROAD, EAST STREET, 0, 0, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LONAVALA PETROL PUMP DEPO - HPCL</Data></Cell>
+    <Cell><Data>MUMBAI PUNE ROAD, LONAVALA, 0, PUNE 410401</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KHANDGE SERVICE STATION-HPCL</Data></Cell>
+    <Cell><Data>GAT NO 380 VILLAGE TALEGAON, DABHADE, 0, PUNE 410506</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHAHID JAYWANT PATIL PETROLIUM (HPCL)</Data></Cell>
+    <Cell><Data>GAT NO 226 AT POST KIKUT TAL, BHOR DIST PUNE, 0, PUNE 412205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHIVAJI SERVICE STATION-HPCL</Data></Cell>
+    <Cell><Data>S NO 77/1 MANJARI BK,PUNE SOLAPUR ROAD, 0, 0, PUNE 412307</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SREE VENKATESHWARA SERVICE  CENTRE</Data></Cell>
+    <Cell><Data>SY NO.46/AA, FATHEPOR VILLAGE, SHANKERPALLY MANDAL, 0, HYDERABAD 501203</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VIJAY DURGA FILLING STATION</Data></Cell>
+    <Cell><Data>S. NO 1462 B, BUGGA ROAD, YADIKI ANANTPUR, 0, HYDERABAD 515408</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>HPCL - SHROFF BROTHERS (MOHARI) NH-6</Data></Cell>
+    <Cell><Data>1 BRITISH INDIAN STREET, 0, 0, KOLKATA 700069</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, G-1, ASHOK BHOPAL CHAMBERS, S. P. ROAD BEGUMPET, HYDERABAD 500017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, RAHEJAMINDSPACE, #10,GROUND FLOOR HI-TECHCITY, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, SUCHIRCAPTIALPLOTNOS SHAKIEST VILL, FILM NAGAR 403/1(OLD)&amp;120(NEW), HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, #5,SOFTWAREUNITSLAYOUT, BLOCK-A GROUNDFLOORSOUTHSIDE, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, SAHMSHABAD,RANGAREDDYDISTRICT, 0, HYDERABAD 534002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, SOUTHERN AVENUE, P.86 LAKE ROAD, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, 59 BALLYGUNGE GARDEN, GROUND FLOOR, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, NEAR KASBA POST OFFICE, 59,K.L.SEN ROAD OPPOSITE DOLNA SCHOOL, KOLKATA 700042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, 123, LAW COLLEGE ROAD, IN FRONT OF IND SEARCH, PUNE 411005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, SHOP NO 1,2 &amp; 3 TAIN SQUARE,BUILDING, &quot;A&quot;,S.NO 15/A FATIMA NAGAR,WANWARI, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, SITA APARTMENT SITUATED AT, D.P RD OPP. OPP. HOTEL SHIV SAGAR, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, SHRI SAFARI HOTELS, RESORTS PVT LTD NEAR NDA,CHANDNI CHOWK, PUNE 411013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, 1287 G. M. ROAD, SHIVAJI NAGER, PUNE 411005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, OPP. BROOKSIDE HOTEL, NEAR SHIV SAGAR RESTAURANT, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, ORANGE PROVIENCE, NO 28, MANJE PIMPALE NILAKH, WAKAD, PUNE 411027</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEE DAY</Data></Cell>
+    <Cell><Data>CAFE COFFEE DAY, 12/2,HUNGERFORD STREET,, 0, KOLKATA 700017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>CAFE COFFEEDAY</Data></Cell>
+    <Cell><Data>GVK MALL,GVK ONE MALL ROAD NO.1, BANJARA HILLS, 0, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>STORE CODE 1137 6/3/801-803, ELEPHANT HOUSE AMEERPET, 0, HYDERABAD 500016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>STORE CODE 1342 SHOP NO 1-2-25/12, DR ATHMARAM ESTATE HYDER NAGAR, MAIN ROAD KUKATPALLY, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>STORE CODE 1312, 12,6,2.273/2, GROUND FLOOR V C PLAZA, OPP BIP OFFICE KUKATPALLY MAIN ROAD, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FLYING MEACHINE -RAHEJA MIDAS</Data></Cell>
+    <Cell><Data>32,33,34, GROUND FLOOR, RAHEJA MIDAS, 325 MG ROAD CAMP, 0, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>NEXT 8508</Data></Cell>
+    <Cell><Data>507/11, 0, 0, KOLKATA 700074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ORIGINAL LEVIS STORE</Data></Cell>
+    <Cell><Data>SGS MALL SHOP NO-4, 231 MOLEDINA ROAD, OPP DORABJEE`S, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BLACKBERRYS</Data></Cell>
+    <Cell><Data>CITY CENTRE MALL, SALT LAKE, 0, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>MEGA MART, PLOT # A-B, RUKMINIPURI A S RAO NAGAR, HYDERABAD 500062</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, TRIRATNA BHABAN,227 DIAMOND HARBOUR RD, STORE CODE 1193, KOLKATA 700034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE,STORE CODE-2421,6-3-, 1192/1/1,SHOWROOM NO.1,WHITE HOUSE,, KUNDAN BAGH,, HYDERABAD 500016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, G FLOOR D. NO. 3- 2- 369, BELOW ICICI DIRECT L B NAGAR CIRCLE, HYDERABAD 500074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE S CODE 2035 HOLDING, #163 WARD #122SITUATED @ MAUZA-S PUR, P O &amp; PS SAHEBPARA SOUTH 24 PARGANAS, KOLKATA 700150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, 319/4 JESSORE RD DUMDUM NEAR LAKETOWN, DIMOND CITY PROJECT STORE CODE 1078, KOLKATA 700074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, 6-3-200/B/5/1 ROAD NO 1BANJARA HILLS, 0, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, 17/1D, NEAR FOOD BAZAAR ALIPOREROAD, STORE CODE 1084, KOLKATA 700027</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, PREMIER ENCLAVE OPP VIZ ELECTRONICS, HUMAYUN NAGAR, HYDERABAD 500035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, 5/1 WOOD STREET, STORE CODE 1082, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>P-339/1,, CIT RD, SCHEME-VI M,, KANKURGACHI,, KOLKATA 0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>H P C L</Data></Cell>
+    <Cell><Data>99 SOUTHERN AVENUE, 0, 0, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>H P C L</Data></Cell>
+    <Cell><Data>236 A J C BOSE ROAD, 0, 0, KOLKATA 700020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>H P C L</Data></Cell>
+    <Cell><Data>7 ASHUTOSH MUKHERJEE ROAD, 0, 0, KOLKATA 700020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BELGACHIA SERVICE STATION</Data></Cell>
+    <Cell><Data>64/1/1, KHUDIRAM BOSE SARANI, 0, KOLKATA 700037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>B U BHANDARI &amp; SONS</Data></Cell>
+    <Cell><Data>MUMBAI-PUNE ROAD, KASARWADI, 0, PUNE 411034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KANKARIYA SERVICE STATION</Data></Cell>
+    <Cell><Data>POONA NAGAR ROAD, 0, 0, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SRINIVASA SERVICE STATION</Data></Cell>
+    <Cell><Data>PLOT NO 27/A, CPC ROAD, AMBERPET, HYDERABAD 500013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>RAJKAMAL FLEET CENTRE</Data></Cell>
+    <Cell><Data>19-1-877/2, BAHADURPURA, 0, HYDERABAD 500264</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VIJAY SERVICE STATION</Data></Cell>
+    <Cell><Data>6-2-2, LAKDI KA PUL, 0, HYDERABAD 500004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARRACKPORE AUTO SERVICE(HPCL)</Data></Cell>
+    <Cell><Data>8/1 BT ROAD, BARRACKPORE, 0, KOLKATA 700120</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>H P FUEL CENTRE TAJE</Data></Cell>
+    <Cell><Data>GAT # 624 &amp; 625, PUNE MUMBAI EXPRESS WAY, VILLAGE TAJE,TALUKA MAWAL, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SHRI SWAMI SAMARTH ENTERPRISES(2)-HPCL</Data></Cell>
+    <Cell><Data>SHRI SWAMI SAMARTH ENTERPRISES(2)-HPCL, HPCL DEALERS,BG PLOT-132,GENERAL BLK, MIDC,BHOSARI,PUNE-NASHIK HIGHWAY, PUNE 411026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>ESSBEE PETROLEUM-HPCL</Data></Cell>
+    <Cell><Data>OPP FATEHAWADI, NR ZIRA HOSPITAL, NH-8, A JUHAPURA SARKHET ROAD, 0, AHEMDABAD 380055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>OM PETROLEUM-HPCL</Data></Cell>
+    <Cell><Data>GAT NO 198 HISSA NO 1 VILLAGE NAIGAON, KAMSETH MUMBAI BANGALORE HIGHWAY NH-4, 0, PUNE 410505</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>L KUDALE &amp; SONS</Data></Cell>
+    <Cell><Data>L KUDALE &amp; SONS,MR NITIN MADHAVRAO, KUDALE, AT POST KHED SHIVAPUR BAUG, TAL, HAVELI, DIST. PUNE, PUNE 412205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PBH PETRO HUB</Data></Cell>
+    <Cell><Data>S NO.401 NH 202 HYDERABAD WARANLAL, ROAD MARAPALLY GHATKESAR ROAD, 0, HYDERABAD 500088</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>H.S LATHWALA HPCL</Data></Cell>
+    <Cell><Data>3-145 BALANAGAR X-ROAD, 0, 0, HYDERABAD 500037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BHARGAVI FILLING STATION</Data></Cell>
+    <Cell><Data>SURVEY NO.358, NAGARAM, KEESARAMANDAL, RANGA REDDY DIST, HYDERABAD 500083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MEGAMART</Data></Cell>
+    <Cell><Data>MEGA MART, H NO 2-2-1130/25/A/2 &amp; 2-2-1130/25/A/3, IST FLR SHIVAM ROAD NEW NALLA KUNTA, HYDERABAD 500013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>HOLDING-19,19/1,19/2,WARD NO.22, SITUATED AT SUBHAKALI APT,GHOSH PARA, ROAD, P.S. JAGADDAL,24 PARGANASNORTH, KOLKATA 700135</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, BLOCK 18 MARUTI, G BLOCK COLONY KAPRA MUNCIPALITY AS, RAO NAGAR MAIN ROAD, RR DIST., HYDERABAD 500062</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, 1454, THE MOBILE STORE,SALIMPUR,38,, GARIAHAT ROAD, SOUTH ,GR FLR SPACE 5, KOLKATA 700031</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, BARUIPUR 1628 HOLDING 112AWARD 12 PS, BARUIPUR WEST BENGAL, KOLKATA 743503</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, PUSHPA ARCADE,116 SODEPUR ROAD,, MADHYAMGRAM STORE CODE 1543, KOLKATA 700002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, HAZRA 55 B, S.P.MUKHERJEE. ROAD, STORE CODE 1818, KOLKATA 700026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>THE MOBILE STORE, SHOP NO-1 ELEPHANT HOUSE, AMEERPET, HYDERABAD 500016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>THE MOBILE STORE</Data></Cell>
+    <Cell><Data>64A, HEMANT BASU SARANI,, BESIDES,OPP BBD BAGH BUS STAND,, DALHOUSIE, KOLKATA 0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SAI PETROLEUM ENTERPRISES</Data></Cell>
+    <Cell><Data>SURVEY NO 8, D NO 2-96, PLOT NOS 1 &amp; 2, BAGH AMIREE, BALANAGAR, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SATKARTAR SERVICE STATION</Data></Cell>
+    <Cell><Data>69/1, D H ROAD, 0, KOLKATA 700038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>DEVI SERVICE STATION</Data></Cell>
+    <Cell><Data>362A N.S.C BOSE ROAD, 0, 0, KOLKATA 700047</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>JASHBHAI PATEL &amp; CO</Data></Cell>
+    <Cell><Data>SHAHPUR ROAD, OPP HOLIM NI, KHADKI, 0, AHEMDABAD 380004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>WEST SIDE,22 CAMAC STREET, 0, 0, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL AMBERPET</Data></Cell>
+    <Cell><Data>MUNICIPAL NO 2-2-1052/1 TO 4, NEXT TO VENKATARAMANA THEATRE, AMBERPETRAMANTHAPUR, HYDERABAD 500013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL ASHOK NAGAR</Data></Cell>
+    <Cell><Data>NO.23-5, JYOTHI NAGAR COLONY, ASHOK NAGARMEDAK DIST, HYDERABAD 500039</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL CHINTAL</Data></Cell>
+    <Cell><Data>H NO 145/PART CHINTAL, QUTHBULLAPUR MANDAL, MUNICIPALITYHYDERABAD, HYDERABAD 500090</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL ILSUKH NAGAR - III</Data></Cell>
+    <Cell><Data>NO 16-11-740/4/A/B, GADDIANNARAM, DILSUKH NAGAR, HYDERABAD 500036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL ERRAGADDA</Data></Cell>
+    <Cell><Data>D.NO.8-3-166/5/1/B, OPP TO ERRAGADDA BUS STOP, ERRAGADDA, HYDERABAD 680600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL GHAT KESAR</Data></Cell>
+    <Cell><Data>DOOR NO:7-185/2MAIN RD, WARANGAL HIGHWAY, NEXT TO MARYMATHA CHURCHGHAT, HYDERABAD 678555</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL KUKKATPALLY - KPHB ROAD</Data></Cell>
+    <Cell><Data>DOOR NO:4MIG-I, A.P.H.B COLONY, KUKATPALLYRANGA REDDY DIS, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL VIVEKANANDA NAGAR</Data></Cell>
+    <Cell><Data>3/5/2024, RAMAKRISHNA NAGAR, KUKATPALLY, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL KUSHAIGUDA</Data></Cell>
+    <Cell><Data>PLOT NO 11EC EXTENSION, ECIL, KUSHAIGUDA, HYDERABAD 500062</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL L.B.NAGAR</Data></Cell>
+    <Cell><Data>SHOP NO 1GROUND FLOOR, NO 3-4-308 &amp; 309, SAROOR NAGARLB ROAD, HYDERABAD 560000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL NALGONDA X ROAD</Data></Cell>
+    <Cell><Data>SHOP NO.16&#45;-10-50/3, NALGONDA RD, 0, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL NIZAMPET</Data></Cell>
+    <Cell><Data>1-2-30/99, NIZAMPET ROAD, 0, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL RAMNAGAR</Data></Cell>
+    <Cell><Data>OLD NO 1-9-70, RAM NAGAR, 0, HYDERABAD 500020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL SAGAR HIGHWAY</Data></Cell>
+    <Cell><Data>H.NO:7-3-122 &amp; 123, SARASWATHY NAGAR COLONY, 0, HYDERABAD 500059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL KARIM NAGAR</Data></Cell>
+    <Cell><Data>SURVEY NO 1085, MUKARAMPURA, KARIM NAGAR, HYDERABAD 500008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC MALAKPET</Data></Cell>
+    <Cell><Data>MALAKPET CITY CENTER G F, BEARING NO. S 16-2-70/A/1, &amp;16-2-705 TS NO 14 WARD NO 176 BLOCK D, HYDERABAD 500036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-VND</Data></Cell>
+    <Cell><Data>SHOP NO HNO-1-9-648 FLAT NO 402, MAURYA TWRS SHOP NO 2 VIDHYANGR GRTR, MUNICIPAL CORPORATION, HYDERABAD 500044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-SNT</Data></Cell>
+    <Cell><Data>17-1-6/A, SV TWRS, SANTHOSH NGR, HYDERABAD 500013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-RNP</Data></Cell>
+    <Cell><Data>SHOPNO-3-11-112/15 BALAJI ARCADE, BESAIDE VISHAL MEGA, MART MAIN RD RAMANTHAPUR, HYDERABAD 500013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-MH2</Data></Cell>
+    <Cell><Data>SHOP NO 14 MCH NO 10-3-5/F/14 GRND FLR, MUJADDADY ESTATE SITUATED AT, MEHDIPATNAM CROSS RD, HYDERABAD 500028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-LBN</Data></Cell>
+    <Cell><Data>SHOP NO HNO 3-3-8IIND FLR, LBNGRGREATER HYDERBAD, MUNICIPAL CORPORATION, HYDERABAD 500074</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-KU2</Data></Cell>
+    <Cell><Data>H/NO-2-22/229 JAYARAMREDDY CMPLX, BESIDE CHANDANA BROS BHAGYANGR, PHASE II&#160; OPP KPHB MAIN RD, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-CT2</Data></Cell>
+    <Cell><Data>HNO 13-3-10 GROUND FLR, PAKALA PLAZA, HANUMANNGRCHAITANYAPURI, HYDERABAD 500060</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-BNJ2</Data></Cell>
+    <Cell><Data>RD NO 2 SHOP NO 8-2-272/18, SRI RANGA TWRS RD NO-2, BANJARA HILLS, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA-BNJ</Data></Cell>
+    <Cell><Data>NO-8-2-60/A/10, RD 12, MOUNT BANJARAHILL, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>BARISTA COFFEE COMPANY LTD, MICROSOFT R&amp;D BUILDING NO.3, GACHI BOWLI, HYDERABAD 500083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>BARISTA COFFEE COMPANY LTD, MICROSOFT INDIA R&amp;D LTD, MICROSOFT CAMPUS GACHI BOWLI, HYDERABAD 500083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AERO CLUB</Data></Cell>
+    <Cell><Data>SHOP NO&#160; - 9, SHIVRANGINI CROSS RD, ISCON CENTRE SATELLITE RD, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AERO CLUB</Data></Cell>
+    <Cell><Data>SHOP NO -15 GRND FLR, DEV ARCADE MALL S G&#160; HWY, 0, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AERO CLUB</Data></Cell>
+    <Cell><Data>SHOP NO- 1B, SHILP SQUARE-N DRIVE-IN-RD, GURUKUL, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AERO CLUB</Data></Cell>
+    <Cell><Data>SHOP NO 3 GRND FLR SHIVALIK 7, NEAR SAFFRON RESTAURANT, KANKARIA RD, AHEMDABAD 380008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AERO CLUB</Data></Cell>
+    <Cell><Data>SHOP NO 14 ALPHA MALL, VASTRAPUR, ALPHA ONE, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AERO CLUB</Data></Cell>
+    <Cell><Data>SHOP NO 3SUPER MALL -2, INFOCITY, GANDHI NAGAR, AHEMDABAD 382002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AERO CLUB</Data></Cell>
+    <Cell><Data>GRND FLR SUNCITY HOUSE, MITHAKALI SIX RD, LAW GARDEN, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 560 / 02444</Data></Cell>
+    <Cell><Data>KALASAGAR SHOPPING HUB, NEAR SUN AND STEP, CLUB GAHATLODIYA, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 560 / 02336</Data></Cell>
+    <Cell><Data>PLOT NO 2199 WARD NO126, OPPRELIEF CINEMA, NEAR ELECTRIC HOUSE RELIEF RD, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 560 / 02181</Data></Cell>
+    <Cell><Data>729 DELHI GATE, 0, 0, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 560 / 02176</Data></Cell>
+    <Cell><Data>1 2 SHIKOR COMPLEX, GURUKUL RD, 0, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 560 / 02173</Data></Cell>
+    <Cell><Data>JUMMA MASJID, PANCORE NAKA, 0, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02499</Data></Cell>
+    <Cell><Data>55702449 GRND FLR, PRIDE CORNET, BANER RD, PUNE 411007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02342</Data></Cell>
+    <Cell><Data>MEGA MART, 0, 0, PUNE 411012</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02255</Data></Cell>
+    <Cell><Data>257258 MG RD, PUNE CAMP, 0, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02112</Data></Cell>
+    <Cell><Data>85 NEW BAZAR KIRKEE, 0, 0, PUNE 411003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02111</Data></Cell>
+    <Cell><Data>1 KIRKEE BUSINESS CENTRE, ELPHINSTON RD, KIRKEE, PUNE 411003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02109</Data></Cell>
+    <Cell><Data>SURVEY NO 2522, BABA SAHEB AMBEDKAR CHK, OPP DELUX CINEMA LT RD PIMPRI, PUNE 411007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02107</Data></Cell>
+    <Cell><Data>345 BUDHWARPETH, 0, 0, PUNE 411002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02103</Data></Cell>
+    <Cell><Data>SHOP 1 2, SWAROOP COMPLEX, KARVE RD, PUNE 411004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02102</Data></Cell>
+    <Cell><Data>1768 LAXMI RD, 0, 0, PUNE 411030</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 557 / 02099</Data></Cell>
+    <Cell><Data>SURVEY NO 47 3 TO 13 15 16, SUB PLOT NO 1 PARVATI, PUNE SATARA RD, PUNE 411043</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 721 / 02462</Data></Cell>
+    <Cell><Data>GF 2 SHOPPER PALZA 3, OPP MUNICIPAL MARKET, CG RD, AHEMDABAD 380006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 565 / 02550</Data></Cell>
+    <Cell><Data>MEDHI PARK 12 DP RD, OPP HOTEL SHIV SAGAR, AUNDH, PUNE 411027</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 565 / 02376</Data></Cell>
+    <Cell><Data>TIMESQUARE B OPP, HDFC BANK, PHATIMA NGR, PUNE 411026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 565 / 02367</Data></Cell>
+    <Cell><Data>SHOP NUM S1 34, INORBIT MALL 1ST FLR, 0, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 565 / 02365</Data></Cell>
+    <Cell><Data>565 OUTLET 02365 SHOP NO EDGF, 20 GRND FLR, EAST BLOCK TOWN CENTER, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 565 / 02349</Data></Cell>
+    <Cell><Data>PHOENIX MARKET CITY VIMAN NGR, BEHIND BAKER, GEUAE 1ST FLR, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 565 / 02039</Data></Cell>
+    <Cell><Data>JANGLI MAHARAJ RD, 0, 0, PUNE 411004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 565 / 02038</Data></Cell>
+    <Cell><Data>37 MAHATMA GANDHI RD CANTT, 37 MAHATMA GANDHI RD, CANTONEMENT, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD</Data></Cell>
+    <Cell><Data>CAMPUS CORNER SECOND, PRAHLAD NAGAR GARDEN, 0, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD</Data></Cell>
+    <Cell><Data>SHOP NO 19 A FIRST FLR ALFA, ONE MALL, NEAR VASTRAPUR LAKE, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 564 / 02364</Data></Cell>
+    <Cell><Data>NEAR SBI RD, 0, 0, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 564 / 02225</Data></Cell>
+    <Cell><Data>SHOP NOS 216A 217 218, HIMALAYA MALL 1ST FLR, PLOT NO 18 MEMNGR, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 564 / 02029</Data></Cell>
+    <Cell><Data>SIDDHIVINAYAK COMPLEX, CHAR RASTA SATELLITE, 0, AHEMDABAD 380026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 564 / 02026</Data></Cell>
+    <Cell><Data>MEDIA HOUSE, 0, 0, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 560 / 02561</Data></Cell>
+    <Cell><Data>SHOP NO 78 KESAR KUNJ COMPLEX, KRISHNA BHAG CROSS RD, MANI NGR, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD</Data></Cell>
+    <Cell><Data>216-TP, ALPHA-ONE-MALL, VASTRAPUR, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 795 / 02432</Data></Cell>
+    <Cell><Data>G-26A GRND FLR PUNE MARKER CITY, BEHIND BAKER GAUAGE, VIMAN NGR RD, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 722 / 02374</Data></Cell>
+    <Cell><Data>WEST BLOCK GRND FLR, SHOP NO 3, AMANORA MALL, PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 722 / 02348</Data></Cell>
+    <Cell><Data>HUSHPUPPIES 63 STORE, UPPER GRND, VIMAN NGR, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FABINDIA OVERSEAS PVT LTD</Data></Cell>
+    <Cell><Data>SHOP NO 16, ALPHA ONE MALL, NR VASTRAPUR LAKE, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>SHOP NO D0006 AA-LID, MAJOR ARTERIAL ACTION AREA II, NEWTOWN CITY CENTER, KOLKATA 700157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>UNITECH PLOT NO 1 BLOCK NO-DH, STREET NO 316, NEWTOWN RAJARHAT DIST 24 PARGANA, KOLKATA 700156</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>SOUTH CITY MALL 375 PRINCE, ANWAR SHAH ROAD 3RD FLOOR, 0, KOLKATA 700068</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>207 SARAT BOSE ROAD, 0, 0, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC KOLKATA</Data></Cell>
+    <Cell><Data>PARK MANSON 57 A, PARK STREET, 0, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PHD VIMAN NAGAR</Data></Cell>
+    <Cell><Data>PIZZA HUT DELIVERY UNIT NO 1, SKY MAX PLOT NO 94, LOHEGAON VIMAN NAGAR, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01212</Data></Cell>
+    <Cell><Data>2-2-648 AZAM COMPLEX, SHIVAM RD, NEW NALLAKUNTA, HYDERABAD 500044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01208</Data></Cell>
+    <Cell><Data>4/4/71 CLOCK TOWER, SULTAN BAZAR, 0, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01204</Data></Cell>
+    <Cell><Data>DAULAT PLAZA GRND FLR NO 6-2-30, LAKDI KA POOL RD, 0, HYDERABAD 500004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01203</Data></Cell>
+    <Cell><Data>3-6-290/16, SADHANA BLDG, HYDERGUDA, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 534/01749</Data></Cell>
+    <Cell><Data>GRND FLR BHASKAR PLAZA, RD NO 1 BANJARA HILLS, BESIDE CARE HOSPITAL, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 534/01712</Data></Cell>
+    <Cell><Data>NO 4-1-388 &amp; 391, ABIDS OPPOSITE G P O, NEAR BIG BAZAR, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 534/01600</Data></Cell>
+    <Cell><Data>PLOT NO 1 &amp; 2 SURVEY NO 52-53, SRINIVASA PLAZA, PANAMA GODOWN X RD, HYDERABAD 500070</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 534/01551</Data></Cell>
+    <Cell><Data>5-25 DURGA NGR, DILSUKHNGR, 0, HYDERABAD 500060</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 534/01539</Data></Cell>
+    <Cell><Data>PLOT NO 100-1-9-1088/1, ADIKMET, VIDYANGR, HYDERABAD 500044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 534/01362</Data></Cell>
+    <Cell><Data>6-3-350 GANGA EST., NGRJUNA CIRCLE, BANJARA HILLS RD NO 1, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 534/01040</Data></Cell>
+    <Cell><Data>5-9-248/241/242, OPP. GRAMAR SCHOOL, ABID RD, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 534/01039</Data></Cell>
+    <Cell><Data>4/1/952 KUSHAL BHAVAN, ABID RD, 0, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01215</Data></Cell>
+    <Cell><Data>5-8-660/1A, NAMPALLY STATION RD, CSI BLDG, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 549/01835</Data></Cell>
+    <Cell><Data>BHAVYA'S SREE ARCADE, ERRAGADDA, NEAR S R NGR, HYDERABAD 500038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 549/01590</Data></Cell>
+    <Cell><Data>8-2-293/82 PLOT NO 39, JUBLEE HILLS RD NO 5, 0, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 549/01481</Data></Cell>
+    <Cell><Data>8-1-347 TO 351 RALUL COLONY, TOLICHOWKI MAIN RD, OPP. RELLANCE MART, HYDERABAD 500008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 549/01227</Data></Cell>
+    <Cell><Data>NO 12-2-831/87 SAI SUCHI TOWERS, MEHDIPATNAM, OPP. SYNDICATE BANK, HYDERABAD 500028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01690</Data></Cell>
+    <Cell><Data>6-1-743 H G CHAMBERS, BANK STREET, 0, HYDERABAD 500096</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01667</Data></Cell>
+    <Cell><Data>HOSUE #6-111, CHINTAL, 0, HYDERABAD 500054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01485</Data></Cell>
+    <Cell><Data>NO 222/1 NACHARAM (UPPAL RD) VILLAGE, DIST. RANGA REDDY, UNDER KAPRA MUNICIPALITY UPPAL MANDAL, HYDERABAD 500062</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 543/01226</Data></Cell>
+    <Cell><Data>225 &amp; 232 PART 231 &amp; 226 MAHESH NGR, ECIL X RD, 0, HYDERABAD 500062</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 712/01393</Data></Cell>
+    <Cell><Data>SHOP NO 13 GRND FLR, RD NO 1 &amp; 10, BANJARA HILLS, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 597/01802</Data></Cell>
+    <Cell><Data>PLOT NO 7, MARGADARSHI COLONY, KOTHAPET, HYDERABAD 500035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 597/01623</Data></Cell>
+    <Cell><Data>3-8-439 L B NGR, RING RD, 0, HYDERABAD 500028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 597/01575</Data></Cell>
+    <Cell><Data>#1-2-85/101 RO 406 VIJAYA, SREE DASHEPALLI ENCLAVE NAGOLE RD, KOTTAPET, HYDERABAD 500035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 597/01217</Data></Cell>
+    <Cell><Data>6555 PATHERGUTTY, 0, 0, HYDERABAD 500002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 597/01207</Data></Cell>
+    <Cell><Data>GBR TOWER GRND FLR, DILSHIKHNGR, 0, HYDERABAD 500060</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 594/01855</Data></Cell>
+    <Cell><Data>NO 494 &amp; 495 PHASE VI JNTU RD, K.P.H.P. COLONY, KUKATAPALLY, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 594/01746</Data></Cell>
+    <Cell><Data>GVVR PLAZA, BEGUMPET, 0, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 594/01699</Data></Cell>
+    <Cell><Data>PLOT NO 23 TO 28, SY NO 261 TO 298, MAIN RD NIZAMPET, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD 594/01640</Data></Cell>
+    <Cell><Data>15-21-48/1&amp;2 SRINIVASA COMPLEX, KUKATPALLY, 0, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  511 / 00007</Data></Cell>
+    <Cell><Data>BAGHBAZAR 124A BIDHAN SARANI, 0, 0, KOLKATA 700004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  511 / 00006</Data></Cell>
+    <Cell><Data>COLLEGE STREET1 BIDHAN SARANEE, 0, 0, KOLKATA 700012</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  514 / 00079</Data></Cell>
+    <Cell><Data>KALIGHAT 53 S P MUKHERJEE RD, 0, 0, KOLKATA 700026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  514 / 00078</Data></Cell>
+    <Cell><Data>JAGUBABU BAZAR84, 0, 0, KOLKATA 700025</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  514 / 00076</Data></Cell>
+    <Cell><Data>BEHALA-ASHOKA 625 DIAMOND HARBOUR RD, NEAR ASHOKA CINEMA, 0, KOLKATA 700034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  514 / 00075</Data></Cell>
+    <Cell><Data>BEHALA 407 DIAMOND HARBOUR RD, BEHALA KOLKATA, 0, KOLKATA 700034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  514 / 00073</Data></Cell>
+    <Cell><Data>GARIA BUS STND124/C, RAJA S C MULLICK RD, 0, KOLKATA 700047</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  516 / 00071</Data></Cell>
+    <Cell><Data>SEALDAH 14 ACHARYA P C RD, 0, 0, KOLKATA 700009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  516 / 00065</Data></Cell>
+    <Cell><Data>BATA BAZAR 6A S N BANERJEE RD, 0, 0, KOLKATA 700013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  516 / 00050</Data></Cell>
+    <Cell><Data>BELIAGHATA CITPLOT NO 1 SCHEME NO VI M, PHOOL BAGAN, PHOOL BAGAN KOLKATA, KOLKATA 700054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  516 / 00105</Data></Cell>
+    <Cell><Data>SINDURIAPATTY 144/3, MAHATMA GANDHI RD, 0, KOLKATA 700007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  516 / 00055</Data></Cell>
+    <Cell><Data>BAGUIHATI SURYA KIRAN APARTMENTS, NARAYANTALA W, NARAYANTALA W BAGUIHATI VIP RD, KOLKATA 700059</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  513 / 00051</Data></Cell>
+    <Cell><Data>BARASAT 82 K B BOSE RD, BARASAT 24-PARGANAS N, BARASAT 24-PARGANAS N, KOLKATA 743201</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  513 / 00035</Data></Cell>
+    <Cell><Data>DUNLOP 33 B T RD, DUNLOP BRIDGE, DUNLOP BRIDGE P O ALAMBAZAR, KOLKATA 700108</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  512 / 00506</Data></Cell>
+    <Cell><Data>SOUTH CITY FSCS-115A SOUTH CITY MALL, PRINCE ANWAR SHAH RD, PRINCE ANWAR SHAH RD KOLKATA, KOLKATA 700045</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  512 / 00451</Data></Cell>
+    <Cell><Data>DAK BUNGLOW 8 JESSORE RD, BARASAT KOLKATA, 0, KOLKATA 700124</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  512 / 00022</Data></Cell>
+    <Cell><Data>JODHPUR PARK 1/430 GARIAHATA RD S, DHAKURIA JODHPUR PARK, DHAKURIA JODHPUR PARK, KOLKATA 700031</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  512 / 00021</Data></Cell>
+    <Cell><Data>GOL PARK 46/2/1A GARIAHAT RD, 0, 0, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  511 / 00527</Data></Cell>
+    <Cell><Data>LAKE TOWN 869 LAKE TOWN, 0, 0, KOLKATA 700089</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  511 / 00520</Data></Cell>
+    <Cell><Data>DCN MALL DIAMOND CITY NORTH MALL, 68 JESSORE RD, 68 JESSORE RD KOLKATA 700065, KOLKATA 700065</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA INDIA LTD  701 / 00517</Data></Cell>
+    <Cell><Data>HP - BK MARKETNEW B K MARKET, 16A SHAKESPEARE SARANI, 0, KOLKATA 700071</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA - WIPRO (HYD)</Data></Cell>
+    <Cell><Data>SURVEY NO 203/1, MANIKONBA VILLAGE, GACHBOWLI, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA - DELLOITE E BLOCK</Data></Cell>
+    <Cell><Data>MANIKONDA VILLAGE, GACHIBOWLEE, HITEC CITY, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA - PRASAD IMAX</Data></Cell>
+    <Cell><Data>M/S PRASAD MEDIA CORP LTD, OFF NTR GARDENS, LIC DIVISION PO, HYDERABAD 500063</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA - GE (HYD)</Data></Cell>
+    <Cell><Data>GENPACT UPPAL 4TH FLOOR, OPP HANUMAN TEMPLE, 0, HYDERABAD 500039</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA - DELL (HYD)</Data></Cell>
+    <Cell><Data>DELL INTERNATIONAL SERVICE, PLOT NO 42 HIGHTECH CITY, MADHAPUR, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LIFESTYLE INTERNATIONAL (P) LTD</Data></Cell>
+    <Cell><Data>33 SYED AMIR ALI AVENUE, PARK CIRCUS,QUEST MALL, 0, KOLKATA 143001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC MANJEERA MALL</Data></Cell>
+    <Cell><Data>MANJEERA TRINITY MALL, SITUATED AT SY NO 1050, KUKATPALLY BALANAGAR MANDAL R R, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC GACHIBOLI</Data></Cell>
+    <Cell><Data>GRD FLR SR NO 124 GACHIBOWLI VILL., VINAYAK NAGAR SERLINGAMPALLY, MANDAL RANGA REDDY, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC PRAHLAD NAGAR</Data></Cell>
+    <Cell><Data>SHOP NO G-13 14-15 &amp; 16 1ST FLR F-104, PUSHPAK COMPLEX OPP PRAHLAD NGR, AUDA GARDEN VEJALPUR, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PHD MANJEERA MALL</Data></Cell>
+    <Cell><Data>FOOD COUNTER B 3RD FLR MANJEERA, TRINITY MALL SURVEY NO 1050 KUKATAPLLY, BALANGR MANDA R R, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PHD KATRAJ</Data></Cell>
+    <Cell><Data>GREEN PARK, OPP BHARTI VIDYAPEETH MAIN GATE, PUNE SATARA RD KATRAJ, PUNE 411046</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PHD THALTEJ</Data></Cell>
+    <Cell><Data>SHOP NO 3 &amp; 4 SHAILLY COMPLEX, SURDHARA CIRCLE OPP SAL HOSPITAL, THALTEJ, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PHD HYDER NAGAR</Data></Cell>
+    <Cell><Data>SRINIVAS PLAZA SARDAR PATEL NGR, HYDER NGR VILLAGE KUKATPALLY, BALA NGR MANDAL KATRAJ, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PHD ASHRAM ROAD</Data></Cell>
+    <Cell><Data>956 CITY GOLD MULTIPLEX GRD FLR, NEXT TO MCDONALDS, SHRAM RD, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC CG ROAD AHMEDABAD</Data></Cell>
+    <Cell><Data>3RD EYE BULDING NO 2, C G RD PANCHAVATI, OPPOSITE PARIMAL GARDEN, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC MIYAPUR</Data></Cell>
+    <Cell><Data>PLOT NO 8 9 14 &amp; 15 SURVEY NO 221, MADINAGUDA VILLAGE, BESIDE JANAPRIYA APT MAIN GATE, HYDERABAD 500049</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC KOTHAPET</Data></Cell>
+    <Cell><Data>11-9-309, KOTHAPET X RD, LAKSHMI NGR, HYDERABAD 500035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC CHANDA NAGAR</Data></Cell>
+    <Cell><Data>GRD &amp; 1ST FLR, PLOT NO 1&amp;2 SURVEY NO 30, CHANDH NGR SHERLINGAMPALLY, HYDERABAD 500050</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>DIGIWORLD MOBILE - 2064</Data></Cell>
+    <Cell><Data>LOWER LEVEL SHOP NO 1, MAHARAJA COMPLEX NEAR RELIEF CINEMA, RELIEF RD PATTHAR KUWA, AHEMDABAD 380001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>DIGIWORLD MOBILE - 2062</Data></Cell>
+    <Cell><Data>GF 26 SARJAN 2 COMPLEX, NEAR PNB NEW CG RD, CHANDKHEDA, AHEMDABAD 382424</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>DIGIWORLD MOBILE - 2063</Data></Cell>
+    <Cell><Data>GF A 5 GALAXY CINEMA, NATIONAL HIGHWAY, NO 8 NARODA, AHEMDABAD 382330</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>SMR VINAY TECHNOPOLIS SURVEY NO 13, MADHAPUR ROAD, HITECH CITY OPP STAYAM, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>MICROSOFT INDIA R &amp; LTD, MICROSOFT CAMPUS, GACHIBOWL, HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>DELOITTE C BLOCK FLAT 14 &amp; 15, ROAD NO 2 HITECH CITY, FURUTA LAYPUT, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>MICROSOFT R &amp; D, BUILDING NO 3, GACHIBOWLI, HYDERABAD 500083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>DELOITTE G BLOCK, MEENAKSHI MALL, HITECH CITY, HYDERABAD 500081</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>8 2 298/82/A/1299/C, KONDA PRIDE ROAD NO A, JUBILEE HILLS, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>H NO.7-1-621/623, OPP.COFFEE DAY, SANJEEV REDDY NAGAR, HYDERABAD 500038</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>SHOP NO.7-71/5 MAHESHWARI, NAGAR GROUND FLR, STREET NO.8 HABSIGUDA, HYDERABAD 500007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>SHOP NO.6-3-75 2 KRISHNA, COMPLEX BALA NAGAR, MAIN ROAD BALA NAGAR, HYDERABAD 500042</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL</Data></Cell>
+    <Cell><Data>PHOENIX MARKET CITY, SURVEY NO.207, BEHIND BAKER GAUGE VIMAN NAGAR RD, PUNE 400014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA</Data></Cell>
+    <Cell><Data>INFOSYS LTD, SURVEY NO. 210, MANIKONDA VILLAGE, LINGAMPALLY,, RANGAREDDY (DIST), HYDERABAD 500032</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PHD NIGDI</Data></Cell>
+    <Cell><Data>KOHINOOR ARCADE, SHOP NOS.15,16,17, SECTOR-24, TILAK CHOWK,, PRADHIKARAN, NIGDI, PUNE 411044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC TOLICHOWKI - HYDERABAD</Data></Cell>
+    <Cell><Data>GR FLOOR, H NO:8-1-364/44, PLOT NO 44, DELUXE COLONY SHALKPET, HAKIMPET, NR GALAXY THEATRE, TOLICHOWKI RD, HYDERABAD 500008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC-HYDERABAD CENTRAL</Data></Cell>
+    <Cell><Data>GR FLOOR, HYDERABAD CNTRAL MALL, PLOT 6-3-673//, 6-3-674 &amp; 674/1, OPP, PUNJAGUTTA P S, PUNJAGUTTA ROAD, HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - LB NAGAR - HYDERABAD</Data></Cell>
+    <Cell><Data>KFC - LB NAGAR - HYDERABAD, SURVEY NO 49/7,49/14,49/15 BAHADURGUDA, VILL., SAROORNAGAR MANDAL, HYDERABAD 500078</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PHD</Data></Cell>
+    <Cell><Data>UNIT NO 1, GREEN HARVEST BLDG,, S NO 140/11+13, MAGARPATTA, HADAPSAR, PUNE 411028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT</Data></Cell>
+    <Cell><Data>EB-FF-41 &amp; 41D AMANORA TOWN, CENTER VILLAGE SADESATRANALI, HADAPSAR TALUKA HAVELI, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT</Data></Cell>
+    <Cell><Data>S-26/26A SECOND FLOOR PHONIX, MARKET CITY ,MALL SURVEY 27,, BEHIND BAKER GAUGE VIMAN NAGAR, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT</Data></Cell>
+    <Cell><Data>11,12,13,14, FIRT FLOOR, ALPHA ONE MALL TP NO. 216,, VASTAPUR LAKE, AHEMDABAD 380054</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC ABIDS HYDERABAD</Data></Cell>
+    <Cell><Data>NO:5 -9-322, T.S. NO. 86, WARD NO. 51, BLOCK F,SITUATED AT ABIDS ROAD, 0, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC KUKATPALLI HYDERABAD</Data></Cell>
+    <Cell><Data>PLOT 17 /18/ 19 / 20, S RAJU NAGARKUKATPALLY MAIN ROAD,, 0, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - CITY CENTRE -II KOLKATA</Data></Cell>
+    <Cell><Data>RAJRAHAT KOLKATA, 0, 0, KOLKATA 700136</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - MANI SQUARE-KOLKATA</Data></Cell>
+    <Cell><Data>SHOP #313 A/B &amp; C&#160; FOOD COURT, MANI SQ MALL 164/1 MANIKTALA MAIN RD, EASTERN METROPOLITAN BYPASS, KOLKATA 700107</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - RB CONNECTOR KOLKATTA</Data></Cell>
+    <Cell><Data>SHOP NO. G001 GROUND FLR&#160; RENE, WORLD RB CONNECTOR, 0, KOLKATA 700078</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - SEC 5  KOLKATTA</Data></Cell>
+    <Cell><Data>SHOP NO. 1011 &amp; 12 BLOCK -, EP SECTOR - V, SALTLAKE ELECTRONIC CITY, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - DCN MALL KOLKOTA</Data></Cell>
+    <Cell><Data>DIAMOND CITY NORTH MALL, SHOP # 1 PLOT # 1, BETWN NAGER BZR &amp; SHYAM BZR XING, KOLKATA 700019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT - CAL 3 FORUM</Data></Cell>
+    <Cell><Data>5TH FLR ELGIN RD FORUM MALL, 0, 0, KOLKATA 201301</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - PARK CIRCUS KOLKOTA</Data></Cell>
+    <Cell><Data>PARK CIRCUS KOLKOTA SHOP # 82, PARK ST, 0, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - DLF RAJARHAT KOLKOTA</Data></Cell>
+    <Cell><Data>DLF PARK RAJARHAT MAIN ARTERIAL RD, NEW TOWN&#160; RAJARHAT, 0, KOLKATA 700136</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC - SHREE TOWER KOLKOTA</Data></Cell>
+    <Cell><Data>SHREE TWR-III BAQIATI, SHREE TWR RAA 44&#160; VIP RD, 0, KOLKATA 700052</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COSTA COFFEE -LAW COLLEGE PUNE</Data></Cell>
+    <Cell><Data>PRABHAT CHAMBERS, NEAR HDFC BANK LAW, COLLEGE RD, PUNE 600028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC</Data></Cell>
+    <Cell><Data>CAMAC STREET, 0, 0, KOLKATA 700017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COSTA COFFEE - HYDRABAD AIRPORT</Data></Cell>
+    <Cell><Data>THE FOOD PLAZA COMMERCIAL PLZA, LEVEL C UNIT NO-87, HYDRABAD INTERNATNL&#160; AIRPORT, HYDERABAD 141001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COSTA COFFEE - PUNE-III</Data></Cell>
+    <Cell><Data>LOBBY CAFE&#160; LOBBY OF WING B, ICC TRADE TWR F.P NO 403 A/2, S.B ROAD SHIVAJI NGR, PUNE 110021</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COSTA COFFEE - INORBIT - PUNE</Data></Cell>
+    <Cell><Data>INORBIT MALL SHOP NO S-116 1ST FLOOR, SURVEY NO. 35, ADOR PLOT OPPOSITE CTR FACTORY, PUNE 110027</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COSTA COFFEE -MKT CITY PHOENIX PUNE</Data></Cell>
+    <Cell><Data>MARKET CITY PHOENIX MALL, SURVEY NO 207&#160; BEHIND BAKER GAUGES, VIMAN NAGAR RD, PUNE 110021</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COSTA COFFEE - KUMAR PACIFIC (PUNE)</Data></Cell>
+    <Cell><Data>1ST FLOORPACIFIC MALL SHANKAR SETH RD, GULTEKDI, 0, PUNE 560103</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AIRPORT - HYDERABAD</Data></Cell>
+    <Cell><Data>RAJIV GANDHI INTERNATIONAL AIRPORT, UNIT NO - 87 LEVEL C PARKING LEVEL, SHAMSHABAD HYDERABAD, HYDERABAD 501218</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>COSTA COFFEE -MKT CITY PUNE KIOSK</Data></Cell>
+    <Cell><Data>MARKET CITY PHOENIX MALL, SURVEY NO 207, BEHIND BAKER GAUGES, PUNE 400070</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC</Data></Cell>
+    <Cell><Data>PARK STREET, 0, 0, KOLKATA 700084</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC</Data></Cell>
+    <Cell><Data>NEW EMPIRE, 0, 0, KOLKATA 700087</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AUCHAN-PARK PLAZA</Data></Cell>
+    <Cell><Data>SPAR HYPERMARKET,KOREGAON PARK CENTRE, BASEMENT,SURVEY NO 37/4 MUNDHWA, ROAD,NEAR HOTEL WESTIN GHORPADI, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FAB INDIA - GULMOHAR PARK MALL</Data></Cell>
+    <Cell><Data>GULMOHAR PARK MALL UNIT NO F13 FIRST, FLOOR,SATELLITE ROAD, 0, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FAB INDIA - CHINCHWAD</Data></Cell>
+    <Cell><Data>ARIHANT UDYOG, D-111/5 MUMBAI PUNE ROAD, CHINCHWAD, PUNE 411019</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FAB INDIA - J M ROAD</Data></Cell>
+    <Cell><Data>SHOP NO 105 R DECCAN MALL, DECCAN GYMKHANA, 0, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVER CELL HYDERABAD (HIMAYAT NAGAR)</Data></Cell>
+    <Cell><Data>NO: 3-6-563/C, HIMAYAT NAGAR MAIN ROAD, 0, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVER CELL HYDERABAD (MEDIPATTANAM)</Data></Cell>
+    <Cell><Data>NO 10-3-76/10, HUMAYUN NAGAR, 0, HYDERABAD 560028</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVER CELL HYDERABAD (ATTAPUR)</Data></Cell>
+    <Cell><Data>DOOR NO:3-4-174/7/2, RAJENDRA NAGAR, 0, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVER CELL HYDERABAD (UNIVERSITY ROAD</Data></Cell>
+    <Cell><Data>H.NO.2-2-7/5/B/1 UNIVERSITY ROAD, NEAR VIDYA NAGAR, 0, HYDERABAD 500044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVER CELL HYDERABAD (UPPAL)</Data></Cell>
+    <Cell><Data>2-1-89LAKSHMA REDDY COLONY, OPP TOMAHANKALI TEMPLE, 0, HYDERABAD 500039</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>LIFESTYLE INTERNATIONAL -BUND GARDEN</Data></Cell>
+    <Cell><Data>CTS 8&amp;9, BUND GARDEN ROAD, CAMP, 0, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FABINDIA</Data></Cell>
+    <Cell><Data>AMANORA PARK TOWNSHIP, WB-FF18 B, 1ST FLR, VG SADESATRANALI 17-1/12 NALI, HADASPAR TALUKA HAVELI DIST PUNE, PUNE 411014</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BATA 510/512/00506</Data></Cell>
+    <Cell><Data>SOUTH CITY MALL SHOP NO S115 A 375, PRINCE ANWAR SHAH ROAD, 0, KOLKATA 700068</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX RETAIL DIVISION</Data></Cell>
+    <Cell><Data>DIAMOND CITY NORTH - KOLKATA, UNIT NO FOI JESSORE ROAD, NAGAR BAZAAR, KOLKATA 700055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>SANGEETHA MOBILES PVT LTD,# SHOP NO: 2, BESIDE RITHU BAZER MANJEERA MEZISTRIC, COMPLEX HIGHTEC CITY JNTU&#160; HYD.ROAD, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>D NO 6 3 349 SY NO321 PANJAGUTTA, NEARNAGAR JUNA, PANJAGUTTA (UNINOR), HYDERABAD 500082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>NO.14/2A C.T.M ROAD,, MADANAPALLY, 0, HYDERABAD 517325</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>H NO 1 98 90 24 1 1MADHAPUR MAIN, ROADBESIDE IOC PUMP, MADHAPUR (UNINOR), HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>PLOT NO 42 MIGDHARMAREDDY COLONY, PHASE II BESIDE ICICI BANK KUKATPALLY, KUKATPALLY (UNINOR), HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA</Data></Cell>
+    <Cell><Data>MAYANK PLAZA, OPP:GREEN PARKGREENLANDS, GREENLANDS, HYDERABAD 500016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT (HYDERABAD-MADHAPUR)</Data></Cell>
+    <Cell><Data>1-98/6/51, SHRISHTI TOWERS, ARUNODAYA COLONY, MADHAPUR, HYDERABAD 500033</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT</Data></Cell>
+    <Cell><Data>PIZZA HUT, SHOP NO 3/B,S G S MAGNAM MALL, 231 MOLEDINA ROAD CAMP, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT</Data></Cell>
+    <Cell><Data>PIZZA HUT,KAMLA ARCADE, SHOP NO 20-23,COMM 3 PHASE 1204-1, J M ROAD,SHIVAJI NAGAR, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT</Data></Cell>
+    <Cell><Data>CANAL STREET LAKE TOWN, 0, 0, KOLKATA 700055</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA - BANJARA HILLS</Data></Cell>
+    <Cell><Data>G - 1 - 2 ,RELINACE CLASSIC BULLDIN ,, ROAD NO .1 , BANJARA HILLS, 0, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA-WESTSIDE</Data></Cell>
+    <Cell><Data>22 CAMAL STREET, 0, 0, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA CREME-CAMAL STREET</Data></Cell>
+    <Cell><Data>4/1 CAMAL STREET, 0, 0, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA-SALT LAKE</Data></Cell>
+    <Cell><Data>BLOCK EP &amp; GP,SECTOR V, BIDHAN NAGAR, 24 PGNS, KOLKATA 700079</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC</Data></Cell>
+    <Cell><Data>KFC, A-106,CITY CENTRE, SECTOR-1,SALT LAKE CITY, KOLKATA 700064</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>KFC</Data></Cell>
+    <Cell><Data>KFC, NEXT TO EUREKA ESTATE,MMTS STATION, RAJ BHAVAN ROAD, HYDERABAD 500029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA-LAVAZZA</Data></Cell>
+    <Cell><Data>PLOT # 795, ROAD NO 36, JUBILEE HILLS, 0, 0, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>PIZZA HUT WANOWARI</Data></Cell>
+    <Cell><Data>PIZZA HUT WANOWARI, FUN &amp; FUN SHOP SURVEY NO.17A/1/2, AND 17A/1/3 WANOWARI, PUNE 411016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA KANKUR KANCHI</Data></Cell>
+    <Cell><Data>GROUND FLOORE P-18, SCHEME 6 CIT ROAD, 0, KOLKATA 700001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>BARISTA NEW PARK STREET</Data></Cell>
+    <Cell><Data>57, NEW PARK STREET, 0, KOLKATA 700016</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC - SALTLAKE</Data></Cell>
+    <Cell><Data>UNIT D, GROUND FLOOR, RDB BOULEVARD,, PLOT K-1,&#160; BLOCK&#160; EP &amp; GP, SECTOR&#160; V, SALT LAKE CITY, KOLKATA 700091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC- -MAGARATTA</Data></Cell>
+    <Cell><Data>UNIT NO T 20 TO 24,, DESTINATION CENTRE,MAGARPATTA CITY,, HADAPSAR, PUNE 411013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC- DHOLE PATIL ROAD</Data></Cell>
+    <Cell><Data>HERMES WAVE, BLDG B1,, SHOP NO. 5 &amp; 5 A, GROUND FLOOR, NEAR BIG BAZAR, KALYANINAGAR, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC- BALLESHWAR SQUARE</Data></Cell>
+    <Cell><Data>G-1,BALLESHWAR SQUARE,, OPP ISKON TEMPLE,, G.G.HIGHWAY,AHMD, AHEMDABAD 380015</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC-  SECUNDERABAD</Data></Cell>
+    <Cell><Data>18-8-303/26,SANA CONSORTIUM,, SINDHI COLONY,P.G.ROAD,, SECUNDERABAD, HYDERABAD 500003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FAB INDIA OVERSEAS PVT. LTD.</Data></Cell>
+    <Cell><Data>CITY CENTRE NEW TOWN, UNIT NO. -CCNTC011, BLOCK-C GROUND FLOOR, KOLKATA 700157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FAB INDIA OVERSEAS PVT. LTD.</Data></Cell>
+    <Cell><Data>HILAND PARK MALL, SHOP NO. 210, METROPOLIS MALL, KOLKATA 700094</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELLHYDERABAD (BANJARA HILLS-II)</Data></Cell>
+    <Cell><Data>D-NO-8-2-644/1/5&#160; SHAIKPET VILLAGE, ROAD NO-12&#160; BANJARAHILLS, 0, HYDERABAD 500037</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELLHYDERABAD (HYDER NAGAR)</Data></Cell>
+    <Cell><Data>GROUND FLOOR, PLOT, NO.154, SURVEY NO.6, KONDAPUR, SIRILENGAMPALLY MANDAL,, HYDERABAD 500084</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELLHYDERABAD (PRAGATHI NAGAR)</Data></Cell>
+    <Cell><Data>PLOT NO:152 &amp; 153,, PRAGATHI NAGAR, KUKATPALLY, 0, HYDERABAD 500072</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELLSECUNDERABAD (A.S.RAO NAGAR)</Data></Cell>
+    <Cell><Data>PLOT NO.B2,LAKSHMIPURAM CO-OPERATIVE, HOUSING SOCITY LTD, A S RAONAGAR, KAPRA , KESARA MANDAL R.R (DT),, HYDERABAD 500062</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA MOBILES -SHAMSHABAD</Data></Cell>
+    <Cell><Data>H.NO.11-3/6 MS COMPLEX,MADHURA NAGAR, AIR PORT ROAD,SHAMSHABAD, 0, HYDERABAD 501218</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>AUCHAN-INORBIT</Data></Cell>
+    <Cell><Data>SURVEY # 35 OPP HOTEL PARK ESTIQUE, #7 AHMED NAGAR ROAD WADGOAN SHERI, 0, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>SANGEETHA MOBILES</Data></Cell>
+    <Cell><Data>SHOP# 6&amp;7, MOUNT BANJARA COMPLEX, ROAD NO.2, BANJARA HILLS, 0, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FAB INDIA OVERSEAS PVT. LTD.</Data></Cell>
+    <Cell><Data>SAKAR 10, OPP JEHANGIR NURSING HOME, SASSOON ROAD, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC HEALTHCARE LIMITED</Data></Cell>
+    <Cell><Data>1/432 GARIAHAT ROAD SOUTH, NEAR JODHPUR PARK, 0, KOLKATA 700068</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC HEALTHCARE LIMITED</Data></Cell>
+    <Cell><Data>IST FLOOR, 1A KASHI NIKET 190 C, SATIN SEN SARANI KANKURGACHI, KOLKATA 700058</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC HEALTHCARE LIMITED</Data></Cell>
+    <Cell><Data>BANJARA HILLS, HOUSE NO. 8-2-293/82, A/L/I-A MLA COLONY ROAD NO-12, HYDERABAD 500034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FAB INDIA OVERSEAS PVT. LTD.</Data></Cell>
+    <Cell><Data>NO 16, HINDUSTAN PARK, 0, KOLKATA 700029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WOODLAND</Data></Cell>
+    <Cell><Data>NO 1, SHOPPERS PLAZA, C G ROAD, AHEMDABAD 380009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX-LIFESTYLE</Data></Cell>
+    <Cell><Data>ROAD NO-1,CITY CENTRE, 2ND FLOOR,OPP.TAJ KRISHNA, BANJARA HILLS, HYDERABAD 500001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WOOD LAND</Data></Cell>
+    <Cell><Data>SHOP NO-110,111,112 &amp; 113, VICTORIA -2 FORTLEZA,SURVEY NO-210, PART CENTRAL AVENUE,KALYANI, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX RETAIL</Data></Cell>
+    <Cell><Data>CITY CENTER,NEW TOWN, PLOT NO-AA-II D/S,AA-ID, JL NO-II, MOUZA NOAPARA RAJARHAT, KOLKATA 700157</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>FAB INDIA OVERSEAS PVT. LTD.</Data></Cell>
+    <Cell><Data>FAB INDIA, ISHANYA ARCADE 02,GRD LEVEL OFF, AIRPORT RD,YERNADA, PUNE 411006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>UNIVERCELL TELECOMMUNICATIONS</Data></Cell>
+    <Cell><Data>UNIVERCELL TELECOMMUNICATIONS, NO.16-10-1/5/21,SKAM COMPLEX, MALAKPET, HYDERABAD 500036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>VLCC HEALTHCARE LIMITED</Data></Cell>
+    <Cell><Data>VLCC, 16-11-19/A,FIRST FLOOR, SHANTA HEIGHTS,SALEEM NAGAR,MAIAAPET, HYDERABAD 500036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>WOOD LAND</Data></Cell>
+    <Cell><Data>WOOD LAND, SHOP NO.2&amp;3 TAIN SQUARE BLDG NOB, SURVEY NO.15 WANOWRIE, PUNE 411001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data>MAX RETAIL</Data></Cell>
+    <Cell><Data>INORBIT MALLS INDIA PVT LTD, MINDSPACE CYBERABAD SURVEY #64,APIIG, SOFTWARE LAYOUT HITEC CITY MADHAPUR, HYDERABAD 500081</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R801C2</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

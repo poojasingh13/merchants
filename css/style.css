@@ -1,0 +1,263 @@
+* { margin:0; padding:0; list-style:none;}
+a{outline:none !important}
+body { font-family:"Century Gothic";}
+h1,h2,h3,h4{font-family:"Century Gothic" Arial}
+.inside { background:#000;}
+
+.ui-dialog-titlebar .ui-button{outline:none}
+.navbar-default { background:none; border:none;}
+.navbar strong { color:#fff; font: normal 16px "Century Gothic" ; text-transform:uppercase; float:left; padding:10px 10px 10px 83px;}
+.base{ background:#fff; border-top: solid 7px #ed1c24; padding-top:30px; }
+.img-thumbnail { width:100%; border:none; background:none; }
+.filters { font:normal 14px "Century Gothic" ; color:#101010; text-transform:uppercase; width:100%; float:left;}
+.fil, .filters input[type='text'] { border:solid 1px #e5e5e5; padding:8px; width:135px; float:left;}
+.fil em { float:right; background:url(../images/sprite.png) -136px -209px no-repeat; width:12px; height:14px;}
+.filters input[type="button"] { width:41px ; height:38px; background:url(../images/sprite.png) -12px -194px no-repeat; float:left; border:none;}
+.filters select { float:left; width:240px; height:37px; background:#efefef; border:solid 1px #e5e5e5; color:#101010; font-size:14px; padding:8px 5px}
+.base h2 { color:#ed1c24; margin:20px 0 5px; float:left; width:100%; font-size:21px;}
+.base ul { width:100%; float:left;}
+.base ul li { border-bottom:solid 1px #e0e0e0; padding:5px 0 10px 0;}
+.base ul li .heading { font-size:16px; display:block; padding:5px 0; float:left; width:100%;color:#214c8f;}
+
+.base ul li .heading a { color:#214c8f;}
+.base ul li .add{float:left; width:100%;}
+
+.base ul li .cat {display:block; margin:5px 0;}
+.base ul li img { margin:0 5px 0 0;}
+.base .pagination { float:right; width:37%;}
+.base .pagination a { color:#2d2d2a;}
+.navbar-brand { padding:0; margin-top:-12px;}
+.navbar-nav  { margin-top:-10px; color:#fff;}
+.nav > li { margin:0 15px 0 10px}
+.navbar-nav li { width:120px; float:left; text-align:center;}
+.navbar-default .navbar-nav > li > a{ color:#fff;}
+.navbar-nav span { width:70px; height:69px; float:left; background:url(../images/sprite.png) -5px -4px no-repeat; display:block;}
+.navbar-nav .supermarket span { background-position:-8px -9px; margin:0 10px}
+.navbar-nav .entertainment span { background-position:-262px -9px; margin:0 10px;}
+.navbar-nav .communication span {background-position:-178px -9px; margin:0 10px;}
+.navbar-nav .utility span { background-position:-345px -9px; margin:0 10px;}
+.navbar-nav .fuel span { background-position:-94px -9px;margin:0 15px}
+.navbar-nav .dining span { background-position:-429px -9px; margin:0 10px;}
+
+.navbar-nav .communication { margin-right:15px;}
+
+
+ .navbar-nav>li.supermarket a:hover span,.navbar-nav>li.supermarket a:hover span.active { background-position:-8px -89px; margin:0 10px }
+.navbar-nav>li.fuel a:hover span,.navbar-nav>li.fuel a:hover span.active { background-position:-92px -89px;margin:0 13px}
+.navbar-nav>li.communication a:hover span,.navbar-nav>li.communication a:hover span.active { background-position:-178px -89px; margin:0 10px;}
+ .navbar-nav>li.entertainment a:hover span,.navbar-nav>li.entertainment a:hover span.active { background-position:-262px -89px; margin:0 10px;}
+ .navbar-nav>li.utility a:hover span,.navbar-nav>li.utility a:hover span.active { background-position:-345px -89px; margin:0 10px;}
+.navbar-nav>li.dining a:hover span,.navbar-nav>li.dining a:hover span.active { background-position:-429px -89px; margin:0 10px;}
+
+.navbar-nav>li a.supermarket:hover span,.navbar-nav>li a.supermarket span.active { background-position:-8px -89px; margin:0 10px }
+.navbar-nav>li a.fuel:hover span,.navbar-nav>li a.fuel span.active { background-position:-92px -89px;margin:0 13px}
+.navbar-nav>li a.communication:hover span,.navbar-nav>li a.communication span.active { background-position:-178px -89px; margin:0 10px;}
+ .navbar-nav>li a.entertainment:hover span,.navbar-nav>li a.entertainment span.active { background-position:-262px -89px; margin:0 10px;}
+ .navbar-nav>li a.utility:hover span,.navbar-nav>li a.utility span.active { background-position:-345px -89px; margin:0 10px;}
+.navbar-nav>li a.dining:hover span,.navbar-nav>li a.dining span.active { background-position:-429px -89px; margin:0 10px;}
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { background-color:transparent; color:#fff;}
+.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus { color:#fff;}
+
+.logo { margin:5px 0 0 0; font:normal 14px "Century Gothic" ; color:#000000; text-align:center;margin-top:30px}
+.logo p { opacity:.7;color:#fff;}
+
+footer { background:#ededed; border-top: solid 7px #ed1c24; padding:10px 0;}
+
+footer strong { color:#5374a6; font-weight:bold;}
+
+header { background:#ededed; border-top: solid 7px #d3d3d3; padding:10px 0 5px;}
+header form { margin:10px; color:#101010; font:normal 15px "Century Gothic" ;}
+.sharebutton{cursor:pointer}
+.filter-city { display: none!important;}
+.city-div .display {display: inline;}
+.city-div .filter {display: inline;}
+.fav input[type=button]{ width:104px;cursor:pointer;border:none; height:31px; float:left; background:url(../images/my.png) no-repeat; display:block;}
+
+.mobid{display:none}
+.text { margin:80px 0 0 0;}
+.text strong{ font:normal 18px "Century Gothic" ;}
+
+
+
+	@media handheld, only screen and (max-width: 960px) { 
+	.navbar-nav li { width:115px;}
+	.nav > li { margin:0;}
+	.navbar strong { padding:97px 10px 10px 14px;}
+	
+	}
+
+
+
+
+	@media handheld, only screen and (max-width: 640px) {
+	
+	
+	.sidebar-module li { float:left; width:45%;}
+	.navbar-nav .communiction { margin-right:0px;}
+	.navbar strong { padding:10px 0 0 0;}
+	.navbar-nav { margin:0;}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form { border:none; box-shadow:none;}
+	.base .pagination { width:100%;}
+	}
+
+
+
+
+.baseshothome { width:100%;height: 870px; position:relative;  color:#fff;}
+
+.baseshot {/* background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; background-image:url(../images/base1.jpg);*/
+	background:#333;
+    height: 870px;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0; z-index:-10;}
+	.find { margin:35px 0 0 0}
+.search strong { font: normal 18px "Century Gothic" ; text-transform:uppercase; background:url(../images/line.png) no-repeat;}
+	
+ .find strong
+	{ /*background: url("../images/line.png") no-repeat scroll 94px 4px ;*/
+    float: left;
+    font: 18px "Century Gothic" ;
+    text-transform: uppercase;
+    width: 94%;
+}
+	
+	
+		.find .navbar-nav { margin:10px 0;}
+	
+	.find .navbar-nav li { width:80px; font-size:11px; color:#fff;margin-right:10px}
+	.find .navbar-nav li a { color:#fff;line-height:16px;font-size:13px;float:left;height:120px}
+		.find .navbar-nav li a:hover { text-decoration:none;}
+	
+.search { padding:20px; background:#2ea5b3; margin:20px 0 0 0;}
+.search input[type='text'] { width:90%;}
+.filters input[type="button"], .search input[type="button"] ,.button-filter,.subbtn{ width:41px ; height:38px; background:url(../images/sprite.png) -12px -194px no-repeat; float:left; border:none;}
+	
+.offer { border-top:solid 1px #46b7b8; margin:1px 0 0  0; padding:15px 0 0 0; text-align:center; float:left;}
+.offer strong { font:bold 17px "Century Gothic" ; padding:0 0 10px 0; width:100%; text-align:center; float:left; }	
+	.offer1 { margin:10px 0 0 0; height:110px;}
+	.offer1 span {  background: none repeat scroll 0 0 #ED1C24;
+    border-radius: 29px;
+    display: block;
+    float: left;
+    font: bold 22px "Century Gothic" ;
+    height: 35px;
+    margin: 4px 42%;
+    padding: 4px 0 0;
+    text-align: center;
+    width: 35px;  }
+	@media handheld, only screen and (max-width: 960px) { 
+	.navbar-nav li { width:115px;}
+	.nav > li { margin:0;}
+	.navbar strong { padding:97px 10px 10px 14px;}
+	
+	}
+
+
+@media handheld, only screen and (max-width: 800px) { .search input[type="text"] { width:76%;}
+.search strong { font: bold 13px "Century Gothic" ;}
+.text { margin:50px 0 0 0;}
+.baseshothome { height:950px;}
+.baseshot { height:950px;}
+
+}
+
+	@media handheld, only screen and (max-width: 640px) {
+	
+	
+	.sidebar-module li { float:left; width:45%;}
+	.navbar-nav .communiction { margin-right:0px;}
+	.navbar strong { padding:10px 0 0 0;}
+	.navbar-nav { margin:0;}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form { border:none; box-shadow:none;}
+	.base .pagination { width:100%;}
+	.baseshothome { height:1464px;}
+.baseshot { height:1464px;} 
+	.offer1 {  height:135px;}
+	}
+	
+	
+	@media handheld, only screen and (max-width: 360px) {.text strong { font-size:13px;}
+	
+	.offer1 {  height:165px;}
+	
+	}
+
+.search input[type="text"] {
+    width: 90%;
+}
+
+#opaque {
+  background-color:black;
+  display:none;
+  height:100%;
+  left:0;
+  opacity:0.3;
+  filter:alpha(opacity=30);
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:100;
+}
+.ui-dialog{width:450px !important;}
+.ui-dialog-titlebar{background:none;border:none;border-bottom:1px solid #666;border-radius:0px;}
+.ui-dialog-title{
+font-family: "Century Gothic" ;
+font-size: 18px;
+}
+.ui-state-default .ui-icon {background:none;}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {background:none;border:none;}
+
+#cities {
+font-family: "Century Gothic" ;
+padding: 4px;
+width: 245px;
+float: left;
+height: 37px;
+color: #000;
+
+}
+#city_btn,.delbtn{
+color:#fff;
+margin:0 0 0 10px;
+background:#ed1c24; padding:8px; border-radius:3px;
+border:none;
+}
+.delbtn{padding:2px 4px}
+.ui-widget-overlay{background:none}
+
+.featured-partners h4{font-weight:bold;font-family:"Century Gothic" }
+.ulfooter{width:97%;margin-left:3%}
+.ulfooter li{width:100%;float:left;}
+.ulfooterlinks{width:98%;margin-left:5px}
+.ulfooterlinks li{width:50%;float:left;}
+ul.pager  li{border-bottom:none !important;margin-right:10px}
+#search_form input[type=text]{padding:9px;float:left;width:80%}
+.terms ul li{list-style: circle;line-height:18px;margin:8px 0}
+ul.pager li a.disabled{display:none}
+
+.col-sm-5{*width:40% !important}
+#stickyFooter {
+     position: fixed;
+     bottom: 0px;
+     width: 80%;
+     overflow: visible;
+     z-index: 99;
+     padding-top: 5px;
+     padding-bottom: 3px;
+     background: white;
+     border-top: solid white 2px;
+     background-color: #333;
+     -webkit-box-shadow: 0px -5px 15px 0px #bfbfbf;
+     box-shadow: 0px -5px 15px 0px #bfbfbf;
+     height: 34px;
+	 text-align:center;
+	 display:none
+}
+.tophead{text-align:center;padding:10px 0 ;background-color:#428BCA;padding-top:10px}
+.tophead a{color:#fff}
