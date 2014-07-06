@@ -75,7 +75,7 @@
 			},
 			dt: {
 				xml: null,
-				city: [],
+				city: ['Banglore','Delhi','Mumbai','Other Cities','Chennai'],
 				category: [],
 				fp: {}
 			},
@@ -120,6 +120,23 @@
 						y.func.createFavouriteButton();
 					}
 					else {
+					    y.obj.$cityDialog.dialog({
+								modal:true,
+								open:function(){
+									y.func.createCityFilterDialog();
+									y.obj.$opaque.show();
+									y.obj.$cityDialogForm.show();
+									$('button.ui-dialog-titlebar-close').remove();
+								}
+							});
+							y.obj.$cityDialogBtn.click(function() {
+								cityName = y.obj.$cityDialogSelect.val();
+								if ( '' != cityName) {
+									y.obj.$cityDialog.dialog('close');
+									y.obj.$opaque.hide();
+									//y.obj.$cityTopFilter.val(cityName).change();
+								}
+							});
 						y.vr.selectedCity = y.func.getParam('city') || cityName;
 						y.vr.selectedCity = '';
 						y.vr.selectedCategory = y.func.getParam('category');
@@ -164,6 +181,7 @@
 						if ('' != y.vr.fav) {
 							y.func.showFav();
 						}
+						
 					}
 				},
 				loadXml: function(xmlFile) {
@@ -271,7 +289,7 @@
 				createCityFilterDialog: function() {
 					var $option;
 					if (false === y.vr.getCity) {
-						y.dt.city = y.func.getCityList(y.func.loadXml(y.opt.cityXml));
+						//y.dt.city = y.func.getCityList(y.func.loadXml(y.opt.cityXml));
 						y.vr.getCity = true;
 					}
 					y.obj.$cityDialogSelect = $('<select/>').attr('id','cities').change(function() {						
@@ -279,7 +297,7 @@
 					});
 					$('<option/>').val('').text('Choose your City').appendTo(y.obj.$cityDialogSelect);
 					for (var i = 0, ln = y.dt.city.length; i < ln; i++) {
-						$('<option/>').val(y.dt.city[i].toLowerCase()).text(y.dt.city[i]).appendTo(y.obj.$cityDialogSelect);
+						$('<option/>').val(y.dt.city[i]).text(y.dt.city[i]).appendTo(y.obj.$cityDialogSelect);
 					}
 					y.obj.$cityDialogSelect.prependTo(y.obj.$cityDialogForm);
 				},
@@ -558,7 +576,7 @@
 						y.evnt.filterCity(me);
 					}
 					else {
-						//y.obj.$filterCity.val($me.val()).change();
+						y.obj.$filterCategory.val($me.val()).change();
 					}
 				},
 				filterCity: function (me) {
