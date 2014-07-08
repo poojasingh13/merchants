@@ -1,26 +1,26 @@
 * { margin:0; padding:0; list-style:none;}
 a{outline:none !important}
-body { font-family:"Century Gothic";}
+body { font-family:"Century Gothic"}
 h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .inside { background:#000;}
-
+.header{background:#ccc;}
 .ui-dialog-titlebar .ui-button{outline:none}
 .navbar-default { background:none; border:none;}
 .navbar strong { color:#fff; font: normal 16px "Century Gothic" ; text-transform:uppercase; float:left; padding:10px 10px 10px 83px;}
 .base{ background:#fff; border-top: solid 7px #ed1c24; padding-top:30px; }
 .img-thumbnail { width:100%; border:none; background:none; }
 .filters { font:normal 14px "Century Gothic" ; color:#101010; text-transform:uppercase; width:100%; float:left;}
-.fil, .filters input[type='text'] { border:solid 1px #e5e5e5; padding:8px; width:135px; float:left;}
+.fil, .filters input[type='text'] { border:solid 1px #e5e5e5; padding:8px; width:135px; float:left;background:#fff}
 .fil em { float:right; background:url(../images/sprite.png) -136px -209px no-repeat; width:12px; height:14px;}
 .filters input[type="button"] { width:41px ; height:38px; background:url(../images/sprite.png) -12px -194px no-repeat; float:left; border:none;}
 .filters select { float:left; width:240px; height:37px; background:#efefef; border:solid 1px #e5e5e5; color:#101010; font-size:14px; padding:8px 5px}
 .base h2 { color:#ed1c24; margin:20px 0 5px; float:left; width:100%; font-size:21px;}
 .base ul { width:100%; float:left;}
-.base ul li { border-bottom:solid 1px #e0e0e0; padding:5px 0 10px 0;}
-.base ul li .heading { font-size:16px; display:block; padding:5px 0; float:left; width:100%;color:#214c8f;}
+.base ul li { border-bottom:1px dotted #5c5d5d; padding:5px 0 10px 0;width:50%;float:left;height:130px;overflow:hidden;padding:10px 5px 10px 0}
+.base ul li .heading { font-size:16px; display:block; padding:5px 0; float:left; width:100%;color:#00abe8;}
 
 .base ul li .heading a { color:#214c8f;}
-.base ul li .add{float:left; width:100%;}
+.base ul li .add{float:left; width:100%;color:#999}
 
 .base ul li .cat {display:block; margin:5px 0;}
 .base ul li img { margin:0 5px 0 0;}
@@ -63,7 +63,7 @@ h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .logo { margin:5px 0 0 0; font:normal 14px "Century Gothic" ; color:#000000; text-align:center;margin-top:30px}
 .logo p { opacity:.7;color:#fff;}
 
-footer { background:#ededed; border-top: solid 7px #ed1c24; padding:10px 0;}
+footer { background:#ededed;  padding:10px 0;}
 
 footer strong { color:#5374a6; font-weight:bold;}
 
@@ -261,3 +261,17 @@ ul.pager li a.disabled{display:none}
 }
 .tophead{text-align:center;padding:10px 0 ;background-color:#428BCA;padding-top:10px}
 .tophead a{color:#fff}
+
+
+
+.pullleft { float:left;}
+.pullrgt { float:right;}
+.container { width:100%; margin:0 auto; }
+.mid {  background:#002e48; width:100%; float:left; border-bottom:solid 8px #0381b4;  }
+.mid img { float:left;  }
+.mid p { width:420px; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:30px; text-transform:capitalize; color:#5fd0fa; display:inline; float:left; margin:125px 0 0 100px ;  }
+.midbot {background:url(../images/shop.jpg) repeat-x; height:92px; width:100%; float:left;}
+.pink { color:#e62d70; font-weight:normal;}
+.yellow {color:#fbce2b; font-weight:normal;}
+.listing { background:#012031; border-bottom:solid 4px #0381b4; }
+.clear { clear:both;}

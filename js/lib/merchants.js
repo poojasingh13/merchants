@@ -13,7 +13,7 @@
 				featuredPartners: '.featured-partners',
 				cityXml: 'xml/city.xml',
 				categoryXml: 'xml/category.xml',
-				total: 10,
+				total: 26,
 				defaultCity: 'Delhi',
 				ignoreCity: 'Please Visit',
 				page: 'search',
@@ -120,14 +120,21 @@
 						y.func.createFavouriteButton();
 					}
 					else {
-					    y.obj.$cityDialog.dialog({
-								modal:true,
-								open:function(){
-									y.func.createCityFilterDialog();
-									y.obj.$opaque.show();
-									y.obj.$cityDialogForm.show();
-									$('button.ui-dialog-titlebar-close').remove();
-								}
+					    
+						if (void 0 != cityName && '' != cityName) {
+							//y.obj.$cityTopFilter.val(cityName).change();
+							y.obj.$filterCategory.val(cityName).change();
+							
+						}
+						else {						
+							y.obj.$cityDialog.dialog({
+									modal:true,
+									open:function(){
+										y.func.createCityFilterDialog();
+										y.obj.$opaque.show();
+										y.obj.$cityDialogForm.show();
+										$('button.ui-dialog-titlebar-close').remove();
+									}
 							});
 							y.obj.$cityDialogBtn.click(function() {
 								cityName = y.obj.$cityDialogSelect.val();
@@ -137,6 +144,7 @@
 									//y.obj.$cityTopFilter.val(cityName).change();
 								}
 							});
+						}
 						y.vr.selectedCity = y.func.getParam('city') || cityName;
 						y.vr.selectedCity = '';
 						y.vr.selectedCategory = y.func.getParam('category');
@@ -487,10 +495,10 @@
 					}
 					if (void 0 == regX || (void 0 != regX && void 0 != sText.match(regX))) {
 						// category
-						$span = $('<span/>').addClass('cat');
+						/*$span = $('<span/>').addClass('cat');
 						$('<span/>').html('City: ').appendTo($span);
 						$('<a/>').attr('href','javascript:void(0)').html(y.vr.selectedCategory).appendTo($span);
-						$span.appendTo($dt);
+						$span.appendTo($dt);*/
 						$('<img/>').addClass('sharebutton').css({'height':'20','width':'56'}).attr('src','images/share.gif').appendTo($dt);
 						$('<img/>').css({'height':'22','width':'118'}).attr('src','images/add.gif').appendTo($('<a/>').attr('href','#').addClass('fav').click(function(e){
 							y.evnt.addFav(e, this);
@@ -576,6 +584,7 @@
 						y.evnt.filterCity(me);
 					}
 					else {
+						$.cookie('ct', $me.val());
 						y.obj.$filterCategory.val($me.val()).change();
 					}
 				},
@@ -585,11 +594,15 @@
 					//y.vr.selectedCity = y.obj.$filterCity.val();
 					y.vr.selectedCity ='';
 					y.obj.$cityTopDisplay.text($me.children('option:selected').text());
+					
 					$.cookie('ct', $me.val());
 					y.obj.$homeCity.length > 0 && y.obj.$homeCity.val($me.val());
 				},
 				filterCategory: function(me) {
 					var $me = $(me), $a = $('a[name="' + $me.val() + '"]');
+					/*if($.cookie('ct')==null){
+						$.cookie('ct', $me.val());
+					}*/
 					if ($a.length > 0) {
 						$a.click();
 					}
