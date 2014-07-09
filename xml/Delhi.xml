@@ -5,16 +5,6 @@
  xmlns:x="urn:schemas-microsoft-com:office:excel"
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
- <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <Author>Rachna Bhola</Author>
-  <LastAuthor>mohit</LastAuthor>
-  <Created>2014-07-04T07:49:36Z</Created>
-  <LastSaved>2014-07-05T10:38:19Z</LastSaved>
-  <Company>baxiabhishek &amp; partners</Company>
-  <Version>12.00</Version>
- </DocumentProperties>
- 
- 
  <Worksheet ss:Name="delhi">
   <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="5221" x:FullColumns="1"
    x:FullRows="1" ss:DefaultRowHeight="15">
@@ -20904,7 +20894,6 @@
     <Cell><Data>KFC KAMLA NAGAR</Data></Cell>
     <Cell><Data>38-VA BANGLOW ROAD JAWAHAR NAGAR, DELHI 110075</Data></Cell>
    </Row>
-  </Table>
- 
+  </Table> 
  </Worksheet>
 </Workbook>

@@ -13,7 +13,7 @@
 				featuredPartners: '.featured-partners',
 				cityXml: 'xml/city.xml',
 				categoryXml: 'xml/category.xml',
-				total: 26,
+				total: 18,
 				defaultCity: 'Delhi',
 				ignoreCity: 'Please Visit',
 				page: 'search',
@@ -258,9 +258,13 @@
 				},
 				createCategoryNav: function () {
 					var $ul = $('<ul/>').addClass('navbar-nav'), $li, $a, text;
+					
 					for (var i = 0, ln = y.dt.category.length; i < ln; i++) {
 						$li = $('<li/>');
 						text = y.dt.category[i].name;
+						/*if(text==$.cookie('ct')){
+							y.vr.selectedCategoryIndex = i;
+						}*/
 						$a = $('<a/>').data('i',i).attr({href: '#', name: text}).addClass(y.dt.category[i].icon).html('<span></span>'+text).appendTo($li);
 						y.obj.$catA.push($a[0]);
 						$li.appendTo($ul);
@@ -336,6 +340,9 @@
 						$('<option/>').val(text).text(text).appendTo($select);
 					}
 					y.obj.$filterCategory = $select.appendTo(y.obj.$filterCategory);
+					if($.cookie('ct')!=null){
+						y.obj.$filterCategory.val($.cookie('ct'));
+					}
 				},
 				createTextFilter: function() {
 					y.obj.$filterText = $('<input/>').attr({'placeholder':'Search','type':'text'}).addClass('input-filter').appendTo(y.obj.$filterText);
@@ -499,10 +506,10 @@
 						$('<span/>').html('City: ').appendTo($span);
 						$('<a/>').attr('href','javascript:void(0)').html(y.vr.selectedCategory).appendTo($span);
 						$span.appendTo($dt);*/
-						$('<img/>').addClass('sharebutton').css({'height':'20','width':'56'}).attr('src','images/share.gif').appendTo($dt);
+						/*$('<img/>').addClass('sharebutton').css({'height':'20','width':'56'}).attr('src','images/share.gif').appendTo($dt);
 						$('<img/>').css({'height':'22','width':'118'}).attr('src','images/add.gif').appendTo($('<a/>').attr('href','#').addClass('fav').click(function(e){
 							y.evnt.addFav(e, this);
-						}).appendTo($dt));
+						}).appendTo($dt));*/
 						found = true;
 						y.opt.counter++;
 					}
