@@ -345,7 +345,7 @@
 					}
 				},
 				createTextFilter: function() {
-					y.obj.$filterText = $('<input/>').attr({'placeholder':'Search','type':'text'}).addClass('input-filter').appendTo(y.obj.$filterText);
+					y.obj.$filterText = $('<input/>').attr({'placeholder':'Enter outlet name or location','type':'text'}).addClass('input-filter').appendTo(y.obj.$filterText);
 				},
 				createButtonFilter: function() {
 					// find button
@@ -591,7 +591,7 @@
 						y.evnt.filterCity(me);
 					}
 					else {
-						$.cookie('ct', $me.val());
+						$.cookie('ct', $me.val(), { expires: 7 });
 						y.obj.$filterCategory.val($me.val()).change();
 					}
 				},
@@ -618,6 +618,7 @@
 						y.vr.selectedCategory = '';
 						y.vr.selectedCategoryIndex = 0;
 					}
+					$.cookie('ct', $me.val());
 					y.func.settitle(me);
 				},
 				selectCategoryHome: function(e, me) {
