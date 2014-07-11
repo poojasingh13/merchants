@@ -591,7 +591,8 @@
 						y.evnt.filterCity(me);
 					}
 					else {
-						$.cookie('ct', $me.val(), { expires: 7 });
+						//$.cookie('ct', $me.val());
+						setCookie('ct',$me.val(),10);
 						y.obj.$filterCategory.val($me.val()).change();
 					}
 				},
@@ -602,7 +603,7 @@
 					y.vr.selectedCity ='';
 					y.obj.$cityTopDisplay.text($me.children('option:selected').text());
 					
-					$.cookie('ct', $me.val());
+					setCookie('ct',$me.val(),10);
 					y.obj.$homeCity.length > 0 && y.obj.$homeCity.val($me.val());
 				},
 				filterCategory: function(me) {
@@ -618,7 +619,7 @@
 						y.vr.selectedCategory = '';
 						y.vr.selectedCategoryIndex = 0;
 					}
-					$.cookie('ct', $me.val());
+					setCookie('ct',$me.val(),10);
 					y.func.settitle(me);
 				},
 				selectCategoryHome: function(e, me) {
@@ -687,3 +688,11 @@
 		y.func.init();
 	}
 })(jQuery);
+
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toGMTString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+} 
