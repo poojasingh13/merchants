@@ -134,7 +134,8 @@
 										y.obj.$opaque.show();
 										y.obj.$cityDialogForm.show();
 										$('button.ui-dialog-titlebar-close').remove();
-									}
+									},
+									closeOnEscape: false
 							});
 							y.obj.$cityDialogBtn.click(function() {
 								cityName = y.obj.$cityDialogSelect.val();
@@ -484,6 +485,7 @@
 					var data = row.getElementsByTagName('Data'), found = false,
 					dataLn = data.length, key, $span, $dt, sText = '', html, childNodes;
 					$dt = $('<li/>').addClass('dt');
+					$dt1 = $('<div/>').appendTo($dt);
 					for (key in y.opt.cell) {
 						if (dataLn > key) {
 							childNodes = data[key].childNodes
@@ -493,7 +495,7 @@
 							else {
 								html = '';
 							}
-							var spn = $('<span/>').addClass(y.opt.cell[key]).html(html).appendTo($dt);
+							var spn = $('<span/>').addClass(y.opt.cell[key]).html(html).appendTo($dt1);
 							sText += html;
 						}
 						else {

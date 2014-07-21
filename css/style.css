@@ -18,12 +18,24 @@ h1,h2,h3,h4{font-family:"Century Gothic" Arial}
 .base h2 { color:#fff; margin:20px 0 5px; float:left; width:100%; font-size:21px;}
 .base ul { width:100%; float:left;}
 .base ul li { border-bottom:1px dotted #5c5d5d; padding:5px 0 10px 0;width:49%;float:left;height:110px;overflow:hidden;padding:10px 5px 10px 0}
-.base ul li:nth-child(odd){margin-right:1%;width:49%}
+.base ul li div{display: inline-block;
+    height: 100%;}
+.base ul li:nth-child(odd){margin-right:0.5%;width:49%;}
+.base ul li:nth-child(2n) {
+    border-bottom: medium none;
+    border-left: 1px solid #5c5d5d;
+    padding: 10px 5px 0 4px;
+}
+.base ul li:nth-child(2n) div {
+    border-bottom: 1px dotted #5c5d5d;
+    
+    padding-left: 1%;
+}
 .base ul li .heading { font-size:16px; display:block; padding:5px 0; float:left; width:100%;color:#00abe8;}
 
 .base ul li .heading a { color:#214c8f;}
 .base ul li .add{float:left; width:100%;color:#ddd}
-
+.base .pager li{border:none !important}
 .base ul li .cat {display:block; margin:5px 0;}
 .base ul li img { margin:0 5px 0 0;}
 .base .pagination { float:right; width:37%;}
@@ -236,7 +248,7 @@ border:none;
 
 .featured-partners h4{font-weight:bold;font-family:"Century Gothic" }
 .ulfooter{width:97%;margin-left:3%}
-.ulfooter li{width:100%;float:left;}
+.ulfooter li{width:100%;float:left;list-style:disc}
 .ulfooterlinks{width:98%;margin-left:5px}
 .ulfooterlinks li{width:50%;float:left;}
 ul.pager  li{border-bottom:none !important;margin-right:10px}
